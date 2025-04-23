@@ -1,0 +1,463 @@
+positive_type	Expected CSO	Predicted CSO	N
+tp	Anus	Anus	14
+tp	Anus	Bladder, urothelial	0
+tp	Anus	Bone and soft tissue	0
+tp	Anus	Breast	0
+tp	Anus	Cervix	0
+tp	Anus	Colon, rectum	0
+tp	Anus	Head and neck	3
+tp	Anus	Kidney	0
+tp	Anus	Liver, bile duct	0
+tp	Anus	Lung	0
+tp	Anus	Lymphoid lineage	0
+tp	Anus	Melanocytic lineage	0
+tp	Anus	Myeloid lineage	0
+tp	Anus	Neuroendocrine cells	0
+tp	Anus	Ovary	0
+tp	Anus	Pancreas, gallbladder	0
+tp	Anus	Plasma cell neoplasm	0
+tp	Anus	Prostate	0
+tp	Anus	Stomach, esophagus	1
+tp	Anus	Thyroid gland	0
+tp	Anus	Uterus	0
+tp	Bladder, urothelial	Anus	0
+tp	Bladder, urothelial	Bladder, urothelial	14
+tp	Bladder, urothelial	Bone and soft tissue	0
+tp	Bladder, urothelial	Breast	0
+tp	Bladder, urothelial	Cervix	0
+tp	Bladder, urothelial	Colon, rectum	0
+tp	Bladder, urothelial	Head and neck	0
+tp	Bladder, urothelial	Kidney	0
+tp	Bladder, urothelial	Liver, bile duct	0
+tp	Bladder, urothelial	Lung	2
+tp	Bladder, urothelial	Lymphoid lineage	0
+tp	Bladder, urothelial	Melanocytic lineage	0
+tp	Bladder, urothelial	Myeloid lineage	0
+tp	Bladder, urothelial	Neuroendocrine cells	0
+tp	Bladder, urothelial	Ovary	0
+tp	Bladder, urothelial	Pancreas, gallbladder	0
+tp	Bladder, urothelial	Plasma cell neoplasm	0
+tp	Bladder, urothelial	Prostate	0
+tp	Bladder, urothelial	Stomach, esophagus	0
+tp	Bladder, urothelial	Thyroid gland	0
+tp	Bladder, urothelial	Uterus	0
+tp	Bone and soft tissue	Anus	0
+tp	Bone and soft tissue	Bladder, urothelial	0
+tp	Bone and soft tissue	Bone and soft tissue	12
+tp	Bone and soft tissue	Breast	0
+tp	Bone and soft tissue	Cervix	0
+tp	Bone and soft tissue	Colon, rectum	0
+tp	Bone and soft tissue	Head and neck	0
+tp	Bone and soft tissue	Kidney	1
+tp	Bone and soft tissue	Liver, bile duct	2
+tp	Bone and soft tissue	Lung	0
+tp	Bone and soft tissue	Lymphoid lineage	2
+tp	Bone and soft tissue	Melanocytic lineage	0
+tp	Bone and soft tissue	Myeloid lineage	0
+tp	Bone and soft tissue	Neuroendocrine cells	0
+tp	Bone and soft tissue	Ovary	0
+tp	Bone and soft tissue	Pancreas, gallbladder	0
+tp	Bone and soft tissue	Plasma cell neoplasm	0
+tp	Bone and soft tissue	Prostate	0
+tp	Bone and soft tissue	Stomach, esophagus	0
+tp	Bone and soft tissue	Thyroid gland	0
+tp	Bone and soft tissue	Uterus	1
+tp	Breast	Anus	0
+tp	Breast	Bladder, urothelial	0
+tp	Breast	Bone and soft tissue	0
+tp	Breast	Breast	155
+tp	Breast	Cervix	0
+tp	Breast	Colon, rectum	2
+tp	Breast	Head and neck	0
+tp	Breast	Kidney	0
+tp	Breast	Liver, bile duct	0
+tp	Breast	Lung	1
+tp	Breast	Lymphoid lineage	0
+tp	Breast	Melanocytic lineage	0
+tp	Breast	Myeloid lineage	0
+tp	Breast	Neuroendocrine cells	0
+tp	Breast	Ovary	0
+tp	Breast	Pancreas, gallbladder	1
+tp	Breast	Plasma cell neoplasm	0
+tp	Breast	Prostate	0
+tp	Breast	Stomach, esophagus	0
+tp	Breast	Thyroid gland	0
+tp	Breast	Uterus	1
+tp	Cervix	Anus	7
+tp	Cervix	Bladder, urothelial	0
+tp	Cervix	Bone and soft tissue	0
+tp	Cervix	Breast	0
+tp	Cervix	Cervix	7
+tp	Cervix	Colon, rectum	0
+tp	Cervix	Head and neck	6
+tp	Cervix	Kidney	0
+tp	Cervix	Liver, bile duct	0
+tp	Cervix	Lung	0
+tp	Cervix	Lymphoid lineage	0
+tp	Cervix	Melanocytic lineage	0
+tp	Cervix	Myeloid lineage	0
+tp	Cervix	Neuroendocrine cells	0
+tp	Cervix	Ovary	0
+tp	Cervix	Pancreas, gallbladder	0
+tp	Cervix	Plasma cell neoplasm	0
+tp	Cervix	Prostate	0
+tp	Cervix	Stomach, esophagus	0
+tp	Cervix	Thyroid gland	0
+tp	Cervix	Uterus	0
+tp	Colon, rectum	Anus	0
+tp	Colon, rectum	Bladder, urothelial	0
+tp	Colon, rectum	Bone and soft tissue	0
+tp	Colon, rectum	Breast	1
+tp	Colon, rectum	Cervix	0
+tp	Colon, rectum	Colon, rectum	164
+tp	Colon, rectum	Head and neck	0
+tp	Colon, rectum	Kidney	0
+tp	Colon, rectum	Liver, bile duct	0
+tp	Colon, rectum	Lung	0
+tp	Colon, rectum	Lymphoid lineage	1
+tp	Colon, rectum	Melanocytic lineage	0
+tp	Colon, rectum	Myeloid lineage	0
+tp	Colon, rectum	Neuroendocrine cells	0
+tp	Colon, rectum	Ovary	0
+tp	Colon, rectum	Pancreas, gallbladder	0
+tp	Colon, rectum	Plasma cell neoplasm	0
+tp	Colon, rectum	Prostate	0
+tp	Colon, rectum	Stomach, esophagus	0
+tp	Colon, rectum	Thyroid gland	0
+tp	Colon, rectum	Uterus	0
+tp	Head and neck	Anus	0
+tp	Head and neck	Bladder, urothelial	0
+tp	Head and neck	Bone and soft tissue	0
+tp	Head and neck	Breast	1
+tp	Head and neck	Cervix	0
+tp	Head and neck	Colon, rectum	0
+tp	Head and neck	Head and neck	83
+tp	Head and neck	Kidney	0
+tp	Head and neck	Liver, bile duct	0
+tp	Head and neck	Lung	5
+tp	Head and neck	Lymphoid lineage	0
+tp	Head and neck	Melanocytic lineage	0
+tp	Head and neck	Myeloid lineage	0
+tp	Head and neck	Neuroendocrine cells	0
+tp	Head and neck	Ovary	0
+tp	Head and neck	Pancreas, gallbladder	0
+tp	Head and neck	Plasma cell neoplasm	0
+tp	Head and neck	Prostate	0
+tp	Head and neck	Stomach, esophagus	0
+tp	Head and neck	Thyroid gland	0
+tp	Head and neck	Uterus	0
+tp	Kidney	Anus	0
+tp	Kidney	Bladder, urothelial	1
+tp	Kidney	Bone and soft tissue	0
+tp	Kidney	Breast	0
+tp	Kidney	Cervix	0
+tp	Kidney	Colon, rectum	1
+tp	Kidney	Head and neck	0
+tp	Kidney	Kidney	14
+tp	Kidney	Liver, bile duct	0
+tp	Kidney	Lung	1
+tp	Kidney	Lymphoid lineage	0
+tp	Kidney	Melanocytic lineage	0
+tp	Kidney	Myeloid lineage	0
+tp	Kidney	Neuroendocrine cells	0
+tp	Kidney	Ovary	0
+tp	Kidney	Pancreas, gallbladder	1
+tp	Kidney	Plasma cell neoplasm	0
+tp	Kidney	Prostate	0
+tp	Kidney	Stomach, esophagus	0
+tp	Kidney	Thyroid gland	0
+tp	Kidney	Uterus	0
+tp	Liver, bile duct	Anus	0
+tp	Liver, bile duct	Bladder, urothelial	0
+tp	Liver, bile duct	Bone and soft tissue	0
+tp	Liver, bile duct	Breast	0
+tp	Liver, bile duct	Cervix	0
+tp	Liver, bile duct	Colon, rectum	0
+tp	Liver, bile duct	Head and neck	0
+tp	Liver, bile duct	Kidney	0
+tp	Liver, bile duct	Liver, bile duct	40
+tp	Liver, bile duct	Lung	0
+tp	Liver, bile duct	Lymphoid lineage	0
+tp	Liver, bile duct	Melanocytic lineage	0
+tp	Liver, bile duct	Myeloid lineage	0
+tp	Liver, bile duct	Neuroendocrine cells	0
+tp	Liver, bile duct	Ovary	0
+tp	Liver, bile duct	Pancreas, gallbladder	3
+tp	Liver, bile duct	Plasma cell neoplasm	0
+tp	Liver, bile duct	Prostate	0
+tp	Liver, bile duct	Stomach, esophagus	0
+tp	Liver, bile duct	Thyroid gland	0
+tp	Liver, bile duct	Uterus	0
+tp	Lung	Anus	0
+tp	Lung	Bladder, urothelial	0
+tp	Lung	Bone and soft tissue	1
+tp	Lung	Breast	1
+tp	Lung	Cervix	0
+tp	Lung	Colon, rectum	0
+tp	Lung	Head and neck	4
+tp	Lung	Kidney	1
+tp	Lung	Liver, bile duct	1
+tp	Lung	Lung	220
+tp	Lung	Lymphoid lineage	1
+tp	Lung	Melanocytic lineage	0
+tp	Lung	Myeloid lineage	0
+tp	Lung	Neuroendocrine cells	6
+tp	Lung	Ovary	0
+tp	Lung	Pancreas, gallbladder	2
+tp	Lung	Plasma cell neoplasm	0
+tp	Lung	Prostate	2
+tp	Lung	Stomach, esophagus	1
+tp	Lung	Thyroid gland	0
+tp	Lung	Uterus	0
+tp	Lymphoid lineage	Anus	0
+tp	Lymphoid lineage	Bladder, urothelial	0
+tp	Lymphoid lineage	Bone and soft tissue	0
+tp	Lymphoid lineage	Breast	0
+tp	Lymphoid lineage	Cervix	0
+tp	Lymphoid lineage	Colon, rectum	0
+tp	Lymphoid lineage	Head and neck	1
+tp	Lymphoid lineage	Kidney	0
+tp	Lymphoid lineage	Liver, bile duct	0
+tp	Lymphoid lineage	Lung	0
+tp	Lymphoid lineage	Lymphoid lineage	118
+tp	Lymphoid lineage	Melanocytic lineage	0
+tp	Lymphoid lineage	Myeloid lineage	0
+tp	Lymphoid lineage	Neuroendocrine cells	0
+tp	Lymphoid lineage	Ovary	0
+tp	Lymphoid lineage	Pancreas, gallbladder	0
+tp	Lymphoid lineage	Plasma cell neoplasm	0
+tp	Lymphoid lineage	Prostate	0
+tp	Lymphoid lineage	Stomach, esophagus	0
+tp	Lymphoid lineage	Thyroid gland	0
+tp	Lymphoid lineage	Uterus	0
+tp	Melanocytic lineage	Anus	0
+tp	Melanocytic lineage	Bladder, urothelial	0
+tp	Melanocytic lineage	Bone and soft tissue	0
+tp	Melanocytic lineage	Breast	0
+tp	Melanocytic lineage	Cervix	0
+tp	Melanocytic lineage	Colon, rectum	0
+tp	Melanocytic lineage	Head and neck	0
+tp	Melanocytic lineage	Kidney	0
+tp	Melanocytic lineage	Liver, bile duct	0
+tp	Melanocytic lineage	Lung	0
+tp	Melanocytic lineage	Lymphoid lineage	0
+tp	Melanocytic lineage	Melanocytic lineage	6
+tp	Melanocytic lineage	Myeloid lineage	0
+tp	Melanocytic lineage	Neuroendocrine cells	0
+tp	Melanocytic lineage	Ovary	0
+tp	Melanocytic lineage	Pancreas, gallbladder	0
+tp	Melanocytic lineage	Plasma cell neoplasm	0
+tp	Melanocytic lineage	Prostate	0
+tp	Melanocytic lineage	Stomach, esophagus	0
+tp	Melanocytic lineage	Thyroid gland	0
+tp	Melanocytic lineage	Uterus	0
+tp	Myeloid lineage	Anus	0
+tp	Myeloid lineage	Bladder, urothelial	0
+tp	Myeloid lineage	Bone and soft tissue	0
+tp	Myeloid lineage	Breast	0
+tp	Myeloid lineage	Cervix	0
+tp	Myeloid lineage	Colon, rectum	0
+tp	Myeloid lineage	Head and neck	0
+tp	Myeloid lineage	Kidney	0
+tp	Myeloid lineage	Liver, bile duct	0
+tp	Myeloid lineage	Lung	0
+tp	Myeloid lineage	Lymphoid lineage	2
+tp	Myeloid lineage	Melanocytic lineage	0
+tp	Myeloid lineage	Myeloid lineage	0
+tp	Myeloid lineage	Neuroendocrine cells	0
+tp	Myeloid lineage	Ovary	0
+tp	Myeloid lineage	Pancreas, gallbladder	0
+tp	Myeloid lineage	Plasma cell neoplasm	0
+tp	Myeloid lineage	Prostate	0
+tp	Myeloid lineage	Stomach, esophagus	0
+tp	Myeloid lineage	Thyroid gland	0
+tp	Myeloid lineage	Uterus	0
+tp	Neuroendocrine cells	Anus	0
+tp	Neuroendocrine cells	Bladder, urothelial	0
+tp	Neuroendocrine cells	Bone and soft tissue	0
+tp	Neuroendocrine cells	Breast	0
+tp	Neuroendocrine cells	Cervix	0
+tp	Neuroendocrine cells	Colon, rectum	2
+tp	Neuroendocrine cells	Head and neck	2
+tp	Neuroendocrine cells	Kidney	0
+tp	Neuroendocrine cells	Liver, bile duct	0
+tp	Neuroendocrine cells	Lung	5
+tp	Neuroendocrine cells	Lymphoid lineage	0
+tp	Neuroendocrine cells	Melanocytic lineage	0
+tp	Neuroendocrine cells	Myeloid lineage	0
+tp	Neuroendocrine cells	Neuroendocrine cells	60
+tp	Neuroendocrine cells	Ovary	0
+tp	Neuroendocrine cells	Pancreas, gallbladder	1
+tp	Neuroendocrine cells	Plasma cell neoplasm	0
+tp	Neuroendocrine cells	Prostate	0
+tp	Neuroendocrine cells	Stomach, esophagus	0
+tp	Neuroendocrine cells	Thyroid gland	0
+tp	Neuroendocrine cells	Uterus	0
+tp	Ovary	Anus	0
+tp	Ovary	Bladder, urothelial	0
+tp	Ovary	Bone and soft tissue	1
+tp	Ovary	Breast	0
+tp	Ovary	Cervix	0
+tp	Ovary	Colon, rectum	1
+tp	Ovary	Head and neck	0
+tp	Ovary	Kidney	0
+tp	Ovary	Liver, bile duct	0
+tp	Ovary	Lung	0
+tp	Ovary	Lymphoid lineage	0
+tp	Ovary	Melanocytic lineage	0
+tp	Ovary	Myeloid lineage	0
+tp	Ovary	Neuroendocrine cells	0
+tp	Ovary	Ovary	38
+tp	Ovary	Pancreas, gallbladder	1
+tp	Ovary	Plasma cell neoplasm	0
+tp	Ovary	Prostate	0
+tp	Ovary	Stomach, esophagus	0
+tp	Ovary	Thyroid gland	0
+tp	Ovary	Uterus	13
+tp	Pancreas, gallbladder	Anus	0
+tp	Pancreas, gallbladder	Bladder, urothelial	0
+tp	Pancreas, gallbladder	Bone and soft tissue	0
+tp	Pancreas, gallbladder	Breast	0
+tp	Pancreas, gallbladder	Cervix	0
+tp	Pancreas, gallbladder	Colon, rectum	2
+tp	Pancreas, gallbladder	Head and neck	0
+tp	Pancreas, gallbladder	Kidney	1
+tp	Pancreas, gallbladder	Liver, bile duct	6
+tp	Pancreas, gallbladder	Lung	2
+tp	Pancreas, gallbladder	Lymphoid lineage	0
+tp	Pancreas, gallbladder	Melanocytic lineage	0
+tp	Pancreas, gallbladder	Myeloid lineage	0
+tp	Pancreas, gallbladder	Neuroendocrine cells	2
+tp	Pancreas, gallbladder	Ovary	0
+tp	Pancreas, gallbladder	Pancreas, gallbladder	104
+tp	Pancreas, gallbladder	Plasma cell neoplasm	0
+tp	Pancreas, gallbladder	Prostate	0
+tp	Pancreas, gallbladder	Stomach, esophagus	7
+tp	Pancreas, gallbladder	Thyroid gland	0
+tp	Pancreas, gallbladder	Uterus	0
+tp	Plasma cell neoplasm	Anus	0
+tp	Plasma cell neoplasm	Bladder, urothelial	0
+tp	Plasma cell neoplasm	Bone and soft tissue	0
+tp	Plasma cell neoplasm	Breast	0
+tp	Plasma cell neoplasm	Cervix	0
+tp	Plasma cell neoplasm	Colon, rectum	0
+tp	Plasma cell neoplasm	Head and neck	0
+tp	Plasma cell neoplasm	Kidney	0
+tp	Plasma cell neoplasm	Liver, bile duct	0
+tp	Plasma cell neoplasm	Lung	0
+tp	Plasma cell neoplasm	Lymphoid lineage	0
+tp	Plasma cell neoplasm	Melanocytic lineage	0
+tp	Plasma cell neoplasm	Myeloid lineage	0
+tp	Plasma cell neoplasm	Neuroendocrine cells	0
+tp	Plasma cell neoplasm	Ovary	0
+tp	Plasma cell neoplasm	Pancreas, gallbladder	0
+tp	Plasma cell neoplasm	Plasma cell neoplasm	34
+tp	Plasma cell neoplasm	Prostate	0
+tp	Plasma cell neoplasm	Stomach, esophagus	0
+tp	Plasma cell neoplasm	Thyroid gland	0
+tp	Plasma cell neoplasm	Uterus	0
+tp	Prostate	Anus	0
+tp	Prostate	Bladder, urothelial	0
+tp	Prostate	Bone and soft tissue	0
+tp	Prostate	Breast	0
+tp	Prostate	Cervix	0
+tp	Prostate	Colon, rectum	2
+tp	Prostate	Head and neck	1
+tp	Prostate	Kidney	0
+tp	Prostate	Liver, bile duct	0
+tp	Prostate	Lung	1
+tp	Prostate	Lymphoid lineage	0
+tp	Prostate	Melanocytic lineage	0
+tp	Prostate	Myeloid lineage	0
+tp	Prostate	Neuroendocrine cells	0
+tp	Prostate	Ovary	0
+tp	Prostate	Pancreas, gallbladder	0
+tp	Prostate	Plasma cell neoplasm	0
+tp	Prostate	Prostate	43
+tp	Prostate	Stomach, esophagus	0
+tp	Prostate	Thyroid gland	0
+tp	Prostate	Uterus	0
+tp	Stomach, esophagus	Anus	0
+tp	Stomach, esophagus	Bladder, urothelial	0
+tp	Stomach, esophagus	Bone and soft tissue	0
+tp	Stomach, esophagus	Breast	0
+tp	Stomach, esophagus	Cervix	0
+tp	Stomach, esophagus	Colon, rectum	3
+tp	Stomach, esophagus	Head and neck	7
+tp	Stomach, esophagus	Kidney	0
+tp	Stomach, esophagus	Liver, bile duct	0
+tp	Stomach, esophagus	Lung	3
+tp	Stomach, esophagus	Lymphoid lineage	0
+tp	Stomach, esophagus	Melanocytic lineage	0
+tp	Stomach, esophagus	Myeloid lineage	0
+tp	Stomach, esophagus	Neuroendocrine cells	0
+tp	Stomach, esophagus	Ovary	0
+tp	Stomach, esophagus	Pancreas, gallbladder	0
+tp	Stomach, esophagus	Plasma cell neoplasm	0
+tp	Stomach, esophagus	Prostate	0
+tp	Stomach, esophagus	Stomach, esophagus	92
+tp	Stomach, esophagus	Thyroid gland	0
+tp	Stomach, esophagus	Uterus	0
+tp	Thyroid gland	Anus	0
+tp	Thyroid gland	Bladder, urothelial	0
+tp	Thyroid gland	Bone and soft tissue	0
+tp	Thyroid gland	Breast	0
+tp	Thyroid gland	Cervix	0
+tp	Thyroid gland	Colon, rectum	0
+tp	Thyroid gland	Head and neck	0
+tp	Thyroid gland	Kidney	0
+tp	Thyroid gland	Liver, bile duct	0
+tp	Thyroid gland	Lung	0
+tp	Thyroid gland	Lymphoid lineage	0
+tp	Thyroid gland	Melanocytic lineage	0
+tp	Thyroid gland	Myeloid lineage	0
+tp	Thyroid gland	Neuroendocrine cells	0
+tp	Thyroid gland	Ovary	0
+tp	Thyroid gland	Pancreas, gallbladder	0
+tp	Thyroid gland	Plasma cell neoplasm	0
+tp	Thyroid gland	Prostate	0
+tp	Thyroid gland	Stomach, esophagus	0
+tp	Thyroid gland	Thyroid gland	0
+tp	Thyroid gland	Uterus	0
+tp	Uterus	Anus	0
+tp	Uterus	Bladder, urothelial	0
+tp	Uterus	Bone and soft tissue	2
+tp	Uterus	Breast	1
+tp	Uterus	Cervix	0
+tp	Uterus	Colon, rectum	0
+tp	Uterus	Head and neck	0
+tp	Uterus	Kidney	0
+tp	Uterus	Liver, bile duct	0
+tp	Uterus	Lung	0
+tp	Uterus	Lymphoid lineage	0
+tp	Uterus	Melanocytic lineage	0
+tp	Uterus	Myeloid lineage	0
+tp	Uterus	Neuroendocrine cells	0
+tp	Uterus	Ovary	1
+tp	Uterus	Pancreas, gallbladder	0
+tp	Uterus	Plasma cell neoplasm	0
+tp	Uterus	Prostate	0
+tp	Uterus	Stomach, esophagus	0
+tp	Uterus	Thyroid gland	0
+tp	Uterus	Uterus	40
+fp	NoneExpected	Anus	0
+fp	NoneExpected	Bladder, urothelial	0
+fp	NoneExpected	Bone and soft tissue	0
+fp	NoneExpected	Breast	0
+fp	NoneExpected	Cervix	0
+fp	NoneExpected	Colon, rectum	1
+fp	NoneExpected	Head and neck	0
+fp	NoneExpected	Kidney	0
+fp	NoneExpected	Liver, bile duct	0
+fp	NoneExpected	Lung	1
+fp	NoneExpected	Lymphoid lineage	1
+fp	NoneExpected	Melanocytic lineage	0
+fp	NoneExpected	Myeloid lineage	0
+fp	NoneExpected	Neuroendocrine cells	1
+fp	NoneExpected	Ovary	0
+fp	NoneExpected	Pancreas, gallbladder	0
+fp	NoneExpected	Plasma cell neoplasm	1
+fp	NoneExpected	Prostate	0
+fp	NoneExpected	Stomach, esophagus	0
+fp	NoneExpected	Thyroid gland	0
+fp	NoneExpected	Uterus	1

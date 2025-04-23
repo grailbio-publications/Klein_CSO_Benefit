@@ -1,0 +1,100 @@
+Cancer	Exposure	Prevalence	Sex	Risk	adjust_seer
+Bladder	Never	50.8	Men	1	0.5089731974714212
+Bladder	Former	30.2	Men	2.37	1.2062664780072685
+Bladder	Current	19	Men	3.9	1.9849954701385424
+Cervix	Never	50.8	Men	1	0.7564296520423601
+Cervix	Former	30.2	Men	1.5	1.1346444780635403
+Cervix	Current	19	Men	1.9	1.4372163388804842
+Colon/Rectum	Never	50.8	Men	1	0.8640801866413204
+Colon/Rectum	Former	30.2	Men	1.2	1.0368962239695843
+Colon/Rectum	Current	19	Men	1.51	1.304761081828394
+Esophagus	Never	50.8	Men	1	0.4836806160156325
+Esophagus	Former	30.2	Men	2.49	1.204364733878925
+Esophagus	Current	19	Men	4.25	2.055642618066438
+Head and Neck	Never	50.8	Men	1	0.46486546793358013
+Head and Neck	Former	30.2	Men	1.88	0.8739470797151304
+Head and Neck	Current	19	Men	5.66	2.631138548504063
+Kidney	Never	50.8	Men	1	0.8201696110755703
+Kidney	Former	30.2	Men	1.38	1.1318340632842872
+Kidney	Current	19	Men	1.55	1.2712628971671343
+Liver	Never	50.8	Men	1	0.7554239439173264
+Liver	Former	30.2	Men	1.38	1.0424850426059102
+Liver	Current	19	Men	2.1	1.5863902822263853
+Lung	Never	50.8	Men	1	0.14094432699083861
+Lung	Former	30.2	Men	6.8	0.9584214235377025
+Lung	Current	19	Men	23.86	3.362931642001409
+Myeloid Neoplasm	Never	50.8	Men	1	0.8340979230961715
+Myeloid Neoplasm	Former	30.2	Men	1.3	1.0843273000250229
+Myeloid Neoplasm	Current	19	Men	1.57	1.3095337392609891
+Pancreas	Never	50.8	Men	1	0.8585459665510492
+Pancreas	Former	30.2	Men	1.08	0.9272296438751332
+Pancreas	Current	19	Men	1.74	1.4938699817988255
+Stomach	Never	50.8	Men	1	0.8035355564483728
+Stomach	Former	30.2	Men	1.3	1.0445962233828847
+Stomach	Current	19	Men	1.81	1.4543993571715548
+Bladder	Never	63.2	Women	1	0.5768143695995754
+Bladder	Former	21.8	Women	2.37	1.3670500559509937
+Bladder	Current	15	Women	3.9	2.2495760414383446
+Cervix	Never	63.2	Women	1	0.8038585209003215
+Cervix	Former	21.8	Women	1.5	1.2057877813504823
+Cervix	Current	15	Women	1.9	1.5273311897106108
+Colon/Rectum	Never	63.2	Women	1	0.8927774305865549
+Colon/Rectum	Former	21.8	Women	1.2	1.0713329167038659
+Colon/Rectum	Current	15	Women	1.51	1.3480939201856978
+Esophagus	Never	63.2	Women	1	0.5517789352873664
+Esophagus	Former	21.8	Women	2.49	1.3739295488655427
+Esophagus	Current	15	Women	4.25	2.3450604749713073
+Head and Neck	Never	63.2	Women	1	0.5288654777770726
+Head and Neck	Former	21.8	Women	1.88	0.9942670982208964
+Head and Neck	Current	15	Women	5.66	2.993378604218231
+Kidney	Never	63.2	Women	1	0.8581186606483944
+Kidney	Former	21.8	Women	1.38	1.1842037516947843
+Kidney	Current	15	Women	1.55	1.3300839240050115
+Liver	Never	63.2	Women	1	0.8013847929221695
+Liver	Former	21.8	Women	1.38	1.1059110142325939
+Liver	Current	15	Women	2.1	1.682908065136556
+Lung	Never	63.2	Women	1	0.17564197140548707
+Lung	Former	21.8	Women	6.8	1.194365405557312
+Lung	Current	15	Women	23.86	4.190817437734922
+Myeloid Neoplasm	Never	63.2	Women	1	0.8688852202624033
+Myeloid Neoplasm	Former	21.8	Women	1.3	1.1295507863411245
+Myeloid Neoplasm	Current	15	Women	1.57	1.3641497958119733
+Pancreas	Never	63.2	Women	1	0.8861791499769593
+Pancreas	Former	21.8	Women	1.08	0.9570734819751162
+Pancreas	Current	15	Women	1.74	1.5419517209599092
+Stomach	Never	63.2	Women	1	0.8425309630128907
+Stomach	Former	21.8	Women	1.3	1.0952902519167578
+Stomach	Current	15	Women	1.81	1.5249810430533322
+Bladder	Current	17	Men and Women	3.9	2.109020116807268
+Bladder	Former	26	Men and Women	2.37	1.281635301752109
+Bladder	Never	57	Men and Women	1	0.5407743889249405
+Cervix	Current	17	Men and Women	1.9	1.480904130943102
+Cervix	Former	26	Men and Women	1.5	1.1691348402182382
+Cervix	Never	57	Men and Women	1	0.7794232268121589
+Colon/Rectum	Current	17	Men and Women	1.51	1.3260735926934224
+Colon/Rectum	Former	26	Men and Women	1.2	1.0538333186967594
+Colon/Rectum	Never	57	Men and Women	1	0.8781944322472995
+Esophagus	Current	17	Men and Women	4.25	2.1908345791020154
+Esophagus	Former	26	Men and Women	2.49	1.283571318109181
+Esophagus	Never	57	Men and Women	1	0.5154904892004742
+Head and Neck	Current	17	Men and Women	5.66	2.8005937654626423
+Head and Neck	Former	26	Men and Women	1.88	0.9302325581395349
+Head and Neck	Never	57	Men and Women	1	0.4948045522018803
+Kidney	Current	17	Men and Women	1.55	1.300008387150885
+Kidney	Former	26	Men and Women	1.38	1.1574268221085298
+Kidney	Never	57	Men and Women	1	0.8387150884844419
+Liver	Current	17	Men and Women	2.1	1.6332244517032202
+Liver	Former	26	Men and Women	1.38	1.0732617825478301
+Liver	Never	57	Men and Women	1	0.7777259293824857
+Lung	Current	17	Men and Women	23.86	3.7315066779268715
+Lung	Former	26	Men and Women	6.8	1.0634637640361577
+Lung	Never	57	Men and Women	1	0.15639173000531734
+Myeloid Neoplasm	Current	17	Men and Women	1.57	1.3362839390586434
+Myeloid Neoplasm	Former	26	Men and Women	1.3	1.1064771469912331
+Myeloid Neoplasm	Never	57	Men and Women	1	0.8511362669163333
+Pancreas	Current	17	Men and Women	1.74	1.5175300889586603
+Pancreas	Former	26	Men and Women	1.08	0.9419152276295134
+Pancreas	Never	57	Men and Women	1	0.8721437292865865
+Stomach	Current	17	Men and Women	1.81	1.488854158098215
+Stomach	Former	26	Men and Women	1.3	1.069342765484906
+Stomach	Never	57	Men and Women	1	0.8225713580653121

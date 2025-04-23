@@ -1,0 +1,1715 @@
+Cancer	NET	Expected CSO	Sex	Predicted CSO	final_confusion	mode_found
+Anus	NotExpected	Anus	Male	Anus	0.6690657942566339	cfdna
+Anus	NotExpected	Anus	Female	Anus	0.6689640768588136	cfdna
+Anus	NotExpected	Anus	Male	Bladder, urothelial	0.0017448200654307528	cfdna
+Anus	NotExpected	Anus	Female	Bladder, urothelial	0.0016708437761069343	cfdna
+Anus	NotExpected	Anus	Male	Bone and soft tissue	0.0018538713195201746	cfdna
+Anus	NotExpected	Anus	Female	Bone and soft tissue	0.0017752715121136177	cfdna
+Anus	NotExpected	Anus	Male	Breast	0.01744820065430753	cfdna
+Anus	NotExpected	Anus	Female	Breast	0.016708437761069343	cfdna
+Anus	NotExpected	Anus	Male	Cervix	0	cfdna
+Anus	NotExpected	Anus	Female	Cervix	8.354218880534672e-4	cfdna
+Anus	NotExpected	Anus	Male	Colon, rectum	0.01941112322791712	cfdna
+Anus	NotExpected	Anus	Female	Colon, rectum	0.01858813700918964	cfdna
+Anus	NotExpected	Anus	Male	Head and neck	0.15463467829880045	cfdna
+Anus	NotExpected	Anus	Female	Head and neck	0.15413533834586465	cfdna
+Anus	NotExpected	Anus	Male	Kidney	0.001962922573609597	cfdna
+Anus	NotExpected	Anus	Female	Kidney	0.0018796992481203013	cfdna
+Anus	NotExpected	Anus	Male	Liver, bile duct	0.0054525627044711015	cfdna
+Anus	NotExpected	Anus	Female	Liver, bile duct	0.005221386800334169	cfdna
+Anus	NotExpected	Anus	Male	Lung	0.02628135223555071	cfdna
+Anus	NotExpected	Anus	Female	Lung	0.025167084377610695	cfdna
+Anus	NotExpected	Anus	Male	Lymphoid lineage	0.013631406761177755	cfdna
+Anus	NotExpected	Anus	Female	Lymphoid lineage	0.013053467000835423	cfdna
+Anus	NotExpected	Anus	Male	Melanocytic lineage	7.633587786259544e-4	cfdna
+Anus	NotExpected	Anus	Female	Melanocytic lineage	7.309941520467838e-4	cfdna
+Anus	NotExpected	Anus	Male	Myeloid lineage	1.0905125408942205e-4	cfdna
+Anus	NotExpected	Anus	Female	Myeloid lineage	1.044277360066834e-4	cfdna
+Anus	NotExpected	Anus	Male	Neuroendocrine cells	0.007524536532170121	cfdna
+Anus	NotExpected	Anus	Female	Neuroendocrine cells	0.007205513784461154	cfdna
+Anus	NotExpected	Anus	Male	Ovary	0	cfdna
+Anus	NotExpected	Anus	Female	Ovary	0.004177109440267336	cfdna
+Anus	NotExpected	Anus	Male	Pancreas, gallbladder	0.012431842966194111	cfdna
+Anus	NotExpected	Anus	Female	Pancreas, gallbladder	0.011904761904761904	cfdna
+Anus	NotExpected	Anus	Male	Plasma cell neoplasm	0.0038167938931297713	cfdna
+Anus	NotExpected	Anus	Female	Plasma cell neoplasm	0.003654970760233919	cfdna
+Anus	NotExpected	Anus	Male	Prostate	0.005016357688113413	cfdna
+Anus	NotExpected	Anus	Female	Prostate	0	cfdna
+Anus	NotExpected	Anus	Male	Stomach, esophagus	0.05874227553616866	cfdna
+Anus	NotExpected	Anus	Female	Stomach, esophagus	0.05827067669172933	cfdna
+Anus	NotExpected	Anus	Male	Thyroid gland	1.0905125408942205e-4	cfdna
+Anus	NotExpected	Anus	Female	Thyroid gland	1.044277360066834e-4	cfdna
+Anus	NotExpected	Anus	Male	Uterus	0	cfdna
+Anus	NotExpected	Anus	Female	Uterus	0.00584795321637427	cfdna
+Bladder	No	Bladder, urothelial	Male	Anus	0.002651667336279631	cfdna
+Bladder	No	Bladder, urothelial	Female	Anus	0.002539242843951986	cfdna
+Bladder	No	Bladder, urothelial	Male	Bladder, urothelial	0.738770590598634	cfdna
+Bladder	No	Bladder, urothelial	Female	Bladder, urothelial	0.7386888273314867	cfdna
+Bladder	No	Bladder, urothelial	Male	Bone and soft tissue	0.0020490156689433508	cfdna
+Bladder	No	Bladder, urothelial	Female	Bone and soft tissue	0.001962142197599262	cfdna
+Bladder	No	Bladder, urothelial	Male	Breast	0.01928485335476095	cfdna
+Bladder	No	Bladder, urothelial	Female	Breast	0.01846722068328717	cfdna
+Bladder	No	Bladder, urothelial	Male	Cervix	0	cfdna
+Bladder	No	Bladder, urothelial	Female	Cervix	9.233610341643586e-4	cfdna
+Bladder	No	Bladder, urothelial	Male	Colon, rectum	0.021454399357171555	cfdna
+Bladder	No	Bladder, urothelial	Female	Colon, rectum	0.020544783010156976	cfdna
+Bladder	No	Bladder, urothelial	Male	Head and neck	0.013017276014463642	cfdna
+Bladder	No	Bladder, urothelial	Female	Head and neck	0.012465373961218839	cfdna
+Bladder	No	Bladder, urothelial	Male	Kidney	0.002169546002410607	cfdna
+Bladder	No	Bladder, urothelial	Female	Kidney	0.002077562326869807	cfdna
+Bladder	No	Bladder, urothelial	Male	Liver, bile duct	0.006026516673362796	cfdna
+Bladder	No	Bladder, urothelial	Female	Liver, bile duct	0.00577100646352724	cfdna
+Bladder	No	Bladder, urothelial	Male	Lung	0.13431096826034553	cfdna
+Bladder	No	Bladder, urothelial	Female	Lung	0.13307940904893817	cfdna
+Bladder	No	Bladder, urothelial	Male	Lymphoid lineage	0.015066291683406993	cfdna
+Bladder	No	Bladder, urothelial	Female	Lymphoid lineage	0.014427516158818102	cfdna
+Bladder	No	Bladder, urothelial	Male	Melanocytic lineage	8.437123342707918e-4	cfdna
+Bladder	No	Bladder, urothelial	Female	Melanocytic lineage	8.079409048938138e-4	cfdna
+Bladder	No	Bladder, urothelial	Male	Myeloid lineage	1.2053033346725595e-4	cfdna
+Bladder	No	Bladder, urothelial	Female	Myeloid lineage	1.1542012927054482e-4	cfdna
+Bladder	No	Bladder, urothelial	Male	Neuroendocrine cells	0.008316593009240661	cfdna
+Bladder	No	Bladder, urothelial	Female	Neuroendocrine cells	0.007963988919667592	cfdna
+Bladder	No	Bladder, urothelial	Male	Ovary	0	cfdna
+Bladder	No	Bladder, urothelial	Female	Ovary	0.004616805170821792	cfdna
+Bladder	No	Bladder, urothelial	Male	Pancreas, gallbladder	0.013740458015267175	cfdna
+Bladder	No	Bladder, urothelial	Female	Pancreas, gallbladder	0.013157894736842108	cfdna
+Bladder	No	Bladder, urothelial	Male	Plasma cell neoplasm	0.004218561671353958	cfdna
+Bladder	No	Bladder, urothelial	Female	Plasma cell neoplasm	0.004039704524469069	cfdna
+Bladder	No	Bladder, urothelial	Male	Prostate	0.005544395339493772	cfdna
+Bladder	No	Bladder, urothelial	Female	Prostate	0	cfdna
+Bladder	No	Bladder, urothelial	Male	Stomach, esophagus	0.012294094013660106	cfdna
+Bladder	No	Bladder, urothelial	Female	Stomach, esophagus	0.011772853185595572	cfdna
+Bladder	No	Bladder, urothelial	Male	Thyroid gland	1.2053033346725595e-4	cfdna
+Bladder	No	Bladder, urothelial	Female	Thyroid gland	1.1542012927054482e-4	cfdna
+Bladder	No	Bladder, urothelial	Male	Uterus	0	cfdna
+Bladder	No	Bladder, urothelial	Female	Uterus	0.00646352723915051	cfdna
+Breast	NotExpected	Breast	Male	Anus	3.1099802092168517e-4	cfdna
+Breast	NotExpected	Breast	Female	Anus	2.9418057338468127e-4	cfdna
+Breast	NotExpected	Breast	Male	Bladder, urothelial	2.261803788521347e-4	cfdna
+Breast	NotExpected	Breast	Female	Bladder, urothelial	2.1394950791613182e-4	cfdna
+Breast	NotExpected	Breast	Male	Bone and soft tissue	2.4031665253039308e-4	cfdna
+Breast	NotExpected	Breast	Female	Bone and soft tissue	2.2732135216089005e-4	cfdna
+Breast	NotExpected	Breast	Male	Breast	0.9590519272453119	cfdna
+Breast	NotExpected	Breast	Female	Breast	0.9472614462986736	cfdna
+Breast	NotExpected	Breast	Male	Cervix	0	cfdna
+Breast	NotExpected	Breast	Female	Cervix	1.0697475395806591e-4	cfdna
+Breast	NotExpected	Breast	Male	Colon, rectum	0.01486193572707568	cfdna
+Breast	NotExpected	Breast	Female	Colon, rectum	0.014575310226786478	cfdna
+Breast	NotExpected	Breast	Male	Head and neck	0.0015267175572519092	cfdna
+Breast	NotExpected	Breast	Female	Head and neck	0.0014441591784338896	cfdna
+Breast	NotExpected	Breast	Male	Kidney	2.5445292620865156e-4	cfdna
+Breast	NotExpected	Breast	Female	Kidney	2.4069319640564833e-4	cfdna
+Breast	NotExpected	Breast	Male	Liver, bile duct	7.068136839129208e-4	cfdna
+Breast	NotExpected	Breast	Female	Liver, bile duct	6.685922122379119e-4	cfdna
+Breast	NotExpected	Breast	Male	Lung	0.00957968146263312	cfdna
+Breast	NotExpected	Breast	Female	Lung	0.00932017543859649	cfdna
+Breast	NotExpected	Breast	Male	Lymphoid lineage	0.0017670342097823022	cfdna
+Breast	NotExpected	Breast	Female	Lymphoid lineage	0.0016714805305947798	cfdna
+Breast	NotExpected	Breast	Male	Melanocytic lineage	9.895391574780894e-5	cfdna
+Breast	NotExpected	Breast	Female	Melanocytic lineage	9.360290971330767e-5	cfdna
+Breast	NotExpected	Breast	Male	Myeloid lineage	1.4136273678258419e-5	cfdna
+Breast	NotExpected	Breast	Female	Myeloid lineage	1.3371844244758239e-5	cfdna
+Breast	NotExpected	Breast	Male	Neuroendocrine cells	9.754028837998308e-4	cfdna
+Breast	NotExpected	Breast	Female	Neuroendocrine cells	9.226572528883185e-4	cfdna
+Breast	NotExpected	Breast	Male	Ovary	0	cfdna
+Breast	NotExpected	Breast	Female	Ovary	5.348737697903295e-4	cfdna
+Breast	NotExpected	Breast	Male	Pancreas, gallbladder	0.007784374705494301	cfdna
+Breast	NotExpected	Breast	Female	Pancreas, gallbladder	0.007621951219512195	cfdna
+Breast	NotExpected	Breast	Male	Plasma cell neoplasm	4.947695787390446e-4	cfdna
+Breast	NotExpected	Breast	Female	Plasma cell neoplasm	4.680145485665384e-4	cfdna
+Breast	NotExpected	Breast	Male	Prostate	6.502685891998871e-4	cfdna
+Breast	NotExpected	Breast	Female	Prostate	0	cfdna
+Breast	NotExpected	Breast	Male	Stomach, esophagus	0.0014418999151823587	cfdna
+Breast	NotExpected	Breast	Female	Stomach, esophagus	0.0013639281129653404	cfdna
+Breast	NotExpected	Breast	Male	Thyroid gland	1.4136273678258419e-5	cfdna
+Breast	NotExpected	Breast	Female	Thyroid gland	1.3371844244758239e-5	cfdna
+Breast	NotExpected	Breast	Male	Uterus	0	cfdna
+Breast	NotExpected	Breast	Female	Uterus	0.012943945228925974	cfdna
+Cervix	No	Cervix	Male	Anus	0.016793893129770993	cfdna
+Cervix	No	Cervix	Female	Anus	0.3064454614797864	cfdna
+Cervix	No	Cervix	Male	Bladder, urothelial	0.012213740458015269	cfdna
+Cervix	No	Cervix	Female	Bladder, urothelial	0.001525553012967201	cfdna
+Cervix	No	Cervix	Male	Bone and soft tissue	0.01297709923664122	cfdna
+Cervix	No	Cervix	Female	Bone and soft tissue	0.0016209000762776509	cfdna
+Cervix	No	Cervix	Male	Breast	0.12213740458015267	cfdna
+Cervix	No	Cervix	Female	Breast	0.015255530129672007	cfdna
+Cervix	No	Cervix	Male	Cervix	0	cfdna
+Cervix	No	Cervix	Female	Cervix	0.3051106025934401	cfdna
+Cervix	No	Cervix	Male	Colon, rectum	0.1358778625954198	cfdna
+Cervix	No	Cervix	Female	Colon, rectum	0.016971777269260108	cfdna
+Cervix	No	Cervix	Male	Head and neck	0.08244274809160305	cfdna
+Cervix	No	Cervix	Female	Head and neck	0.27116704805491987	cfdna
+Cervix	No	Cervix	Male	Kidney	0.013740458015267175	cfdna
+Cervix	No	Cervix	Female	Kidney	0.0017162471395881012	cfdna
+Cervix	No	Cervix	Male	Liver, bile duct	0.038167938931297704	cfdna
+Cervix	No	Cervix	Female	Liver, bile duct	0.004767353165522502	cfdna
+Cervix	No	Cervix	Male	Lung	0.18396946564885494	cfdna
+Cervix	No	Cervix	Female	Lung	0.02297864225781846	cfdna
+Cervix	No	Cervix	Male	Lymphoid lineage	0.09541984732824427	cfdna
+Cervix	No	Cervix	Female	Lymphoid lineage	0.011918382913806256	cfdna
+Cervix	No	Cervix	Male	Melanocytic lineage	0.00534351145038168	cfdna
+Cervix	No	Cervix	Female	Melanocytic lineage	6.674294431731504e-4	cfdna
+Cervix	No	Cervix	Male	Myeloid lineage	7.633587786259543e-4	cfdna
+Cervix	No	Cervix	Female	Myeloid lineage	9.534706331045006e-5	cfdna
+Cervix	No	Cervix	Male	Neuroendocrine cells	0.05267175572519084	cfdna
+Cervix	No	Cervix	Female	Neuroendocrine cells	0.006578947368421054	cfdna
+Cervix	No	Cervix	Male	Ovary	0	cfdna
+Cervix	No	Cervix	Female	Ovary	0.003813882532418002	cfdna
+Cervix	No	Cervix	Male	Pancreas, gallbladder	0.08702290076335877	cfdna
+Cervix	No	Cervix	Female	Pancreas, gallbladder	0.010869565217391304	cfdna
+Cervix	No	Cervix	Male	Plasma cell neoplasm	0.026717557251908396	cfdna
+Cervix	No	Cervix	Female	Plasma cell neoplasm	0.003337147215865752	cfdna
+Cervix	No	Cervix	Male	Prostate	0.03511450381679389	cfdna
+Cervix	No	Cervix	Female	Prostate	0	cfdna
+Cervix	No	Cervix	Male	Stomach, esophagus	0.07786259541984733	cfdna
+Cervix	No	Cervix	Female	Stomach, esophagus	0.009725400457665906	cfdna
+Cervix	No	Cervix	Male	Thyroid gland	7.633587786259543e-4	cfdna
+Cervix	No	Cervix	Female	Thyroid gland	9.534706331045006e-5	cfdna
+Cervix	No	Cervix	Male	Uterus	0	cfdna
+Cervix	No	Cervix	Female	Uterus	0.005339435545385203	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Anus	2.981164460906095e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Anus	2.854770061247795e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Bladder, urothelial	2.1681196079317058e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Bladder, urothelial	2.0761964081802146e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Bone and soft tissue	2.303627083427437e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Bone and soft tissue	2.205958683691478e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Breast	0.008085279371245318	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Breast	0.007993356171493824	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Cervix	0	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Cervix	1.0380982040901073e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Colon, rectum	0.9728262342472564	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Colon, rectum	0.9727239696875326	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Head and neck	0.0014634807353539013	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Head and neck	0.0014014325755216446	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Kidney	2.439134558923169e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Kidney	2.3357209592027417e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Liver, bile duct	6.775373774786579e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Liver, bile duct	6.488113775563169e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Lung	0.0032657301594471314	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Lung	0.0031272708398214478	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Lymphoid lineage	0.007611003207010258	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Lymphoid lineage	0.0075391882072044026	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Melanocytic lineage	9.485523284701214e-5	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Melanocytic lineage	9.083359285788438e-5	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Myeloid lineage	1.3550747549573161e-5	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Myeloid lineage	1.2976227551126341e-5	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Neuroendocrine cells	9.350015809205481e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Neuroendocrine cells	8.953597010277175e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Ovary	0	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Ovary	5.190491020450536e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Pancreas, gallbladder	0.00154478522065134	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Pancreas, gallbladder	0.0014792899408284025	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Plasma cell neoplasm	4.742761642350606e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Plasma cell neoplasm	4.5416796428942197e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Prostate	6.233343872803652e-4	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Prostate	0	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Stomach, esophagus	0.0013821762500564624	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Stomach, esophagus	0.0013235752102148867	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Thyroid gland	1.3550747549573161e-5	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Thyroid gland	1.2976227551126341e-5	cfdna
+Colon/Rectum	No	Colon, rectum	Male	Uterus	0	cfdna
+Colon/Rectum	No	Colon, rectum	Female	Uterus	7.266687428630751e-4	cfdna
+Esophagus	No	Stomach, esophagus	Male	Anus	4.6649703138252756e-4	cfdna
+Esophagus	No	Stomach, esophagus	Female	Anus	4.467186484730345e-4	cfdna
+Esophagus	No	Stomach, esophagus	Male	Bladder, urothelial	3.392705682782019e-4	cfdna
+Esophagus	No	Stomach, esophagus	Female	Bladder, urothelial	3.2488628979857054e-4	cfdna
+Esophagus	No	Stomach, esophagus	Male	Bone and soft tissue	3.6047497879558945e-4	cfdna
+Esophagus	No	Stomach, esophagus	Female	Bone and soft tissue	3.451916829109812e-4	cfdna
+Esophagus	No	Stomach, esophagus	Male	Breast	0.0033927056827820186	cfdna
+Esophagus	No	Stomach, esophagus	Female	Breast	0.0032488628979857053	cfdna
+Esophagus	No	Stomach, esophagus	Male	Cervix	0	cfdna
+Esophagus	No	Stomach, esophagus	Female	Cervix	1.6244314489928527e-4	cfdna
+Esophagus	No	Stomach, esophagus	Male	Colon, rectum	0.03155216284987277	cfdna
+Esophagus	No	Stomach, esophagus	Female	Colon, rectum	0.031392137751786876	cfdna
+Esophagus	No	Stomach, esophagus	Male	Head and neck	0.06710489115069267	cfdna
+Esophagus	No	Stomach, esophagus	Female	Head and neck	0.06700779727095517	cfdna
+Esophagus	No	Stomach, esophagus	Male	Kidney	3.816793893129771e-4	cfdna
+Esophagus	No	Stomach, esophagus	Female	Kidney	3.654970760233919e-4	cfdna
+Esophagus	No	Stomach, esophagus	Male	Liver, bile duct	0.0010602205258693808	cfdna
+Esophagus	No	Stomach, esophagus	Female	Liver, bile duct	0.001015269655620533	cfdna
+Esophagus	No	Stomach, esophagus	Male	Lung	0.03288804071246819	cfdna
+Esophagus	No	Stomach, esophagus	Female	Lung	0.03267137751786874	cfdna
+Esophagus	No	Stomach, esophagus	Male	Lymphoid lineage	0.002650551314673452	cfdna
+Esophagus	No	Stomach, esophagus	Female	Lymphoid lineage	0.0025381741390513323	cfdna
+Esophagus	No	Stomach, esophagus	Male	Melanocytic lineage	1.4843087362171334e-4	cfdna
+Esophagus	No	Stomach, esophagus	Female	Melanocytic lineage	1.421377517868746e-4	cfdna
+Esophagus	No	Stomach, esophagus	Male	Myeloid lineage	2.120441051738762e-5	cfdna
+Esophagus	No	Stomach, esophagus	Female	Myeloid lineage	2.030539311241066e-5	cfdna
+Esophagus	No	Stomach, esophagus	Male	Neuroendocrine cells	0.0014631043256997456	cfdna
+Esophagus	No	Stomach, esophagus	Female	Neuroendocrine cells	0.0014010721247563354	cfdna
+Esophagus	No	Stomach, esophagus	Male	Ovary	0	cfdna
+Esophagus	No	Stomach, esophagus	Female	Ovary	8.122157244964263e-4	cfdna
+Esophagus	No	Stomach, esophagus	Male	Pancreas, gallbladder	0.0024173027989821878	cfdna
+Esophagus	No	Stomach, esophagus	Female	Pancreas, gallbladder	0.0023148148148148147	cfdna
+Esophagus	No	Stomach, esophagus	Male	Plasma cell neoplasm	7.421543681085666e-4	cfdna
+Esophagus	No	Stomach, esophagus	Female	Plasma cell neoplasm	7.106887589343731e-4	cfdna
+Esophagus	No	Stomach, esophagus	Male	Prostate	9.754028837998302e-4	cfdna
+Esophagus	No	Stomach, esophagus	Female	Prostate	0	cfdna
+Esophagus	No	Stomach, esophagus	Male	Stomach, esophagus	0.8540147017246253	cfdna
+Esophagus	No	Stomach, esophagus	Female	Stomach, esophagus	0.8539230019493177	cfdna
+Esophagus	No	Stomach, esophagus	Male	Thyroid gland	2.120441051738762e-5	cfdna
+Esophagus	No	Stomach, esophagus	Female	Thyroid gland	2.030539311241066e-5	cfdna
+Esophagus	No	Stomach, esophagus	Male	Uterus	0	cfdna
+Esophagus	No	Stomach, esophagus	Female	Uterus	0.001137102014294997	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Anus	3.9670613692372424e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Anus	3.798867246857301e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Bladder, urothelial	2.885135541263449e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Bladder, urothelial	2.762812543168946e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Bone and soft tissue	3.0654565125924144e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Bone and soft tissue	2.935488327117005e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Breast	0.002885135541263449	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Breast	0.002762812543168946	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Cervix	0	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Cervix	1.381406271584473e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Colon, rectum	0.018957744785718576	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Colon, rectum	0.018821660450338444	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Head and neck	0.0019474664903528281	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Head and neck	0.0018648984666390384	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Kidney	0.008198593496423634	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Kidney	0.008184832159138001	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Liver, bile duct	0.0481456993448338	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Liver, bile duct	0.048107473407929265	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Lung	0.02009376690509106	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Lung	0.019909517889211213	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Lymphoid lineage	0.0022540121416120694	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Lymphoid lineage	0.002158447299350739	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Melanocytic lineage	1.262246799302759e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Melanocytic lineage	1.2087304876364139e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Myeloid lineage	1.8032097132896557e-5	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Myeloid lineage	1.7267578394805913e-5	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Neuroendocrine cells	0.016992246198232853	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Neuroendocrine cells	0.0169394944053046	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Ovary	0	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Ovary	6.907031357922365e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Pancreas, gallbladder	0.8209532968684257	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Pancreas, gallbladder	0.8208661417322833	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Plasma cell neoplasm	6.311233996513794e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Plasma cell neoplasm	6.04365243818207e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Prostate	8.294764681132414e-4	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Prostate	0	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Stomach, esophagus	0.056957384143775915	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Stomach, esophagus	0.05687940323249067	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Thyroid gland	1.8032097132896557e-5	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Thyroid gland	1.7267578394805913e-5	cfdna
+Gallbladder	No	Pancreas, gallbladder	Male	Uterus	0	cfdna
+Gallbladder	No	Pancreas, gallbladder	Female	Uterus	9.669843901091311e-4	cfdna
+Head and Neck	No	Head and neck	Male	Anus	5.476269498838366e-4	cfdna
+Head and Neck	No	Head and neck	Female	Anus	5.244088482074753e-4	cfdna
+Head and Neck	No	Head and neck	Male	Bladder, urothelial	3.9827414537006305e-4	cfdna
+Head and Neck	No	Head and neck	Female	Bladder, urothelial	3.8138825324180017e-4	cfdna
+Head and Neck	No	Head and neck	Male	Bone and soft tissue	4.2316627945569187e-4	cfdna
+Head and Neck	No	Head and neck	Female	Bone and soft tissue	4.0522501906941266e-4	cfdna
+Head and Neck	No	Head and neck	Male	Breast	0.014852306671091933	cfdna
+Head and Neck	No	Head and neck	Female	Breast	0.014683447749809304	cfdna
+Head and Neck	No	Head and neck	Male	Cervix	0	cfdna
+Head and Neck	No	Head and neck	Female	Cervix	1.9069412662090009e-4	cfdna
+Head and Neck	No	Head and neck	Male	Colon, rectum	0.00443079986724195	cfdna
+Head and Neck	No	Head and neck	Female	Colon, rectum	0.004242944317315026	cfdna
+Head and Neck	No	Head and neck	Male	Head and neck	0.904862263524726	cfdna
+Head and Neck	No	Head and neck	Female	Head and neck	0.9047482837528603	cfdna
+Head and Neck	No	Head and neck	Male	Kidney	4.480584135413209e-4	cfdna
+Head and Neck	No	Head and neck	Female	Kidney	4.2906178489702525e-4	cfdna
+Head and Neck	No	Head and neck	Male	Liver, bile duct	0.0012446067042814466	cfdna
+Head and Neck	No	Head and neck	Female	Liver, bile duct	0.0011918382913806253	cfdna
+Head and Neck	No	Head and neck	Male	Lung	0.060346830401593075	cfdna
+Head and Neck	No	Head and neck	Female	Lung	0.06009248665141113	cfdna
+Head and Neck	No	Head and neck	Male	Lymphoid lineage	0.0031115167607036172	cfdna
+Head and Neck	No	Head and neck	Female	Lymphoid lineage	0.0029795957284515636	cfdna
+Head and Neck	No	Head and neck	Male	Melanocytic lineage	1.742449385994026e-4	cfdna
+Head and Neck	No	Head and neck	Female	Melanocytic lineage	1.6685736079328757e-4	cfdna
+Head and Neck	No	Head and neck	Male	Myeloid lineage	2.489213408562894e-5	cfdna
+Head and Neck	No	Head and neck	Female	Myeloid lineage	2.383676582761251e-5	cfdna
+Head and Neck	No	Head and neck	Male	Neuroendocrine cells	0.0017175572519083967	cfdna
+Head and Neck	No	Head and neck	Female	Neuroendocrine cells	0.0016447368421052633	cfdna
+Head and Neck	No	Head and neck	Male	Ovary	0	cfdna
+Head and Neck	No	Head and neck	Female	Ovary	9.534706331045003e-4	cfdna
+Head and Neck	No	Head and neck	Male	Pancreas, gallbladder	0.0028377032857616986	cfdna
+Head and Neck	No	Head and neck	Female	Pancreas, gallbladder	0.0027173913043478256	cfdna
+Head and Neck	No	Head and neck	Male	Plasma cell neoplasm	8.712246929970127e-4	cfdna
+Head and Neck	No	Head and neck	Female	Plasma cell neoplasm	8.342868039664379e-4	cfdna
+Head and Neck	No	Head and neck	Male	Prostate	0.001145038167938931	cfdna
+Head and Neck	No	Head and neck	Female	Prostate	0	cfdna
+Head and Neck	No	Head and neck	Male	Stomach, esophagus	0.0025389976767341517	cfdna
+Head and Neck	No	Head and neck	Female	Stomach, esophagus	0.002431350114416476	cfdna
+Head and Neck	No	Head and neck	Male	Thyroid gland	2.489213408562894e-5	cfdna
+Head and Neck	No	Head and neck	Female	Thyroid gland	2.383676582761251e-5	cfdna
+Head and Neck	No	Head and neck	Male	Uterus	0	cfdna
+Head and Neck	No	Head and neck	Female	Uterus	0.0013348588863463006	cfdna
+Kidney	NotExpected	Kidney	Male	Anus	0.002399127589967285	cfdna
+Kidney	NotExpected	Kidney	Female	Anus	0.002297410192147035	cfdna
+Kidney	NotExpected	Kidney	Male	Bladder, urothelial	0.049363867684478376	cfdna
+Kidney	NotExpected	Kidney	Female	Bladder, urothelial	0.04928989139515456	cfdna
+Kidney	NotExpected	Kidney	Male	Bone and soft tissue	0.0018538713195201746	cfdna
+Kidney	NotExpected	Kidney	Female	Bone and soft tissue	0.0017752715121136177	cfdna
+Kidney	NotExpected	Kidney	Male	Breast	0.01744820065430753	cfdna
+Kidney	NotExpected	Kidney	Female	Breast	0.016708437761069343	cfdna
+Kidney	NotExpected	Kidney	Male	Cervix	0	cfdna
+Kidney	NotExpected	Kidney	Female	Cervix	8.354218880534672e-4	cfdna
+Kidney	NotExpected	Kidney	Male	Colon, rectum	0.06703017084696475	cfdna
+Kidney	NotExpected	Kidney	Female	Colon, rectum	0.06620718462823726	cfdna
+Kidney	NotExpected	Kidney	Male	Head and neck	0.01177753544165758	cfdna
+Kidney	NotExpected	Kidney	Female	Head and neck	0.011278195488721806	cfdna
+Kidney	NotExpected	Kidney	Male	Kidney	0.6686295892402763	cfdna
+Kidney	NotExpected	Kidney	Female	Kidney	0.6685463659147869	cfdna
+Kidney	NotExpected	Kidney	Male	Liver, bile duct	0.0054525627044711015	cfdna
+Kidney	NotExpected	Kidney	Female	Liver, bile duct	0.005221386800334169	cfdna
+Kidney	NotExpected	Kidney	Male	Lung	0.07390039985459833	cfdna
+Kidney	NotExpected	Kidney	Female	Lung	0.07278613199665832	cfdna
+Kidney	NotExpected	Kidney	Male	Lymphoid lineage	0.013631406761177755	cfdna
+Kidney	NotExpected	Kidney	Female	Lymphoid lineage	0.013053467000835423	cfdna
+Kidney	NotExpected	Kidney	Male	Melanocytic lineage	7.633587786259544e-4	cfdna
+Kidney	NotExpected	Kidney	Female	Melanocytic lineage	7.309941520467838e-4	cfdna
+Kidney	NotExpected	Kidney	Male	Myeloid lineage	1.0905125408942205e-4	cfdna
+Kidney	NotExpected	Kidney	Female	Myeloid lineage	1.044277360066834e-4	cfdna
+Kidney	NotExpected	Kidney	Male	Neuroendocrine cells	0.007524536532170121	cfdna
+Kidney	NotExpected	Kidney	Female	Neuroendocrine cells	0.007205513784461154	cfdna
+Kidney	NotExpected	Kidney	Male	Ovary	0	cfdna
+Kidney	NotExpected	Kidney	Female	Ovary	0.004177109440267336	cfdna
+Kidney	NotExpected	Kidney	Male	Pancreas, gallbladder	0.06005089058524173	cfdna
+Kidney	NotExpected	Kidney	Female	Pancreas, gallbladder	0.05952380952380952	cfdna
+Kidney	NotExpected	Kidney	Male	Plasma cell neoplasm	0.0038167938931297713	cfdna
+Kidney	NotExpected	Kidney	Female	Plasma cell neoplasm	0.003654970760233919	cfdna
+Kidney	NotExpected	Kidney	Male	Prostate	0.005016357688113413	cfdna
+Kidney	NotExpected	Kidney	Female	Prostate	0	cfdna
+Kidney	NotExpected	Kidney	Male	Stomach, esophagus	0.011123227917121049	cfdna
+Kidney	NotExpected	Kidney	Female	Stomach, esophagus	0.010651629072681705	cfdna
+Kidney	NotExpected	Kidney	Male	Thyroid gland	1.0905125408942205e-4	cfdna
+Kidney	NotExpected	Kidney	Female	Thyroid gland	1.044277360066834e-4	cfdna
+Kidney	NotExpected	Kidney	Male	Uterus	0	cfdna
+Kidney	NotExpected	Kidney	Female	Uterus	0.00584795321637427	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Anus	0.0010952538997676738	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Anus	0.0010488176964149507	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Bladder, urothelial	7.965482907401264e-4	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Bladder, urothelial	7.627765064836006e-4	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Bone and soft tissue	8.463325589113842e-4	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Bone and soft tissue	8.104500381388255e-4	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Breast	0.007965482907401263	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Breast	0.007627765064836005	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Cervix	0	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Cervix	3.813882532418003e-4	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Colon, rectum	0.008861599734483904	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Colon, rectum	0.008485888634630054	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Head and neck	0.005376700962495853	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Head and neck	0.005148741418764303	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Kidney	8.961168270826421e-4	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Kidney	8.581235697940507e-4	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Liver, bile duct	0.8720544307998673	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Liver, bile duct	0.8719488939740658	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Lung	0.011998008629273152	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Lung	0.011489321128909233	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Lymphoid lineage	0.006223033521407237	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Lymphoid lineage	0.005959191456903129	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Melanocytic lineage	3.4848987719880535e-4	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Melanocytic lineage	3.3371472158657525e-4	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Myeloid lineage	4.97842681712579e-5	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Myeloid lineage	4.7673531655225035e-5	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Neuroendocrine cells	0.003435114503816795	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Neuroendocrine cells	0.0032894736842105274	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Ovary	0	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Ovary	0.0019069412662090013	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Pancreas, gallbladder	0.07089279787587123	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Pancreas, gallbladder	0.07065217391304349	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Plasma cell neoplasm	0.0017424493859940263	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Plasma cell neoplasm	0.0016685736079328764	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Prostate	0.002290076335877863	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Prostate	0	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Stomach, esophagus	0.005077995353468306	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Stomach, esophagus	0.004862700228832954	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Thyroid gland	4.97842681712579e-5	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Thyroid gland	4.7673531655225035e-5	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Uterus	0	cfdna
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Uterus	0.002669717772692602	cfdna
+Lung	No	Lung	Male	Anus	2.056395077114816e-4	cfdna
+Lung	No	Lung	Female	Anus	2.001892698551358e-4	cfdna
+Lung	No	Lung	Male	Bladder, urothelial	1.4955600560835028e-4	cfdna
+Lung	No	Lung	Female	Bladder, urothelial	1.4559219625828057e-4	cfdna
+Lung	No	Lung	Male	Bone and soft tissue	0.004240535909020097	cfdna
+Lung	No	Lung	Female	Bone and soft tissue	0.004304069301885418	cfdna
+Lung	No	Lung	Male	Breast	0.005577192709144729	cfdna
+Lung	No	Lung	Female	Breast	0.005605299555943802	cfdna
+Lung	No	Lung	Male	Cervix	0	cfdna
+Lung	No	Lung	Female	Cervix	7.279609812914028e-5	cfdna
+Lung	No	Lung	Male	Colon, rectum	0.0016638105623928963	cfdna
+Lung	No	Lung	Female	Colon, rectum	0.0016197131833733712	cfdna
+Lung	No	Lung	Male	Head and neck	0.017336033650101265	cfdna
+Lung	No	Lung	Female	Head and neck	0.017580257698187374	cfdna
+Lung	No	Lung	Male	Kidney	0.0042498831593706194	cfdna
+Lung	No	Lung	Female	Kidney	0.004313168814151561	cfdna
+Lung	No	Lung	Male	Liver, bile duct	0.0045489951705873204	cfdna
+Lung	No	Lung	Female	Liver, bile duct	0.004604353206668123	cfdna
+Lung	No	Lung	Male	Lung	0.9002118710079454	cfdna
+Lung	No	Lung	Female	Lung	0.9150560529955595	cfdna
+Lung	No	Lung	Male	Lymphoid lineage	0.005250038946876462	cfdna
+Lung	No	Lung	Female	Lymphoid lineage	0.005286816626628813	cfdna
+Lung	No	Lung	Male	Melanocytic lineage	6.543075245365325e-5	cfdna
+Lung	No	Lung	Female	Melanocytic lineage	6.369658586299776e-5	cfdna
+Lung	No	Lung	Male	Myeloid lineage	9.347250350521893e-6	cfdna
+Lung	No	Lung	Female	Myeloid lineage	9.099512266142535e-6	cfdna
+Lung	No	Lung	Male	Neuroendocrine cells	0.02513475619255336	cfdna
+Lung	No	Lung	Female	Neuroendocrine cells	0.025524131906529808	cfdna
+Lung	No	Lung	Male	Ovary	0	cfdna
+Lung	No	Lung	Female	Ovary	3.6398049064570144e-4	cfdna
+Lung	No	Lung	Male	Pancreas, gallbladder	0.009228851846081946	cfdna
+Lung	No	Lung	Female	Pancreas, gallbladder	0.00933609958506224	cfdna
+Lung	No	Lung	Male	Plasma cell neoplasm	3.271537622682662e-4	cfdna
+Lung	No	Lung	Female	Plasma cell neoplasm	3.1848292931498876e-4	cfdna
+Lung	No	Lung	Male	Prostate	0.01675650412836891	cfdna
+Lung	No	Lung	Female	Prostate	0	cfdna
+Lung	No	Lung	Male	Stomach, esophagus	0.005035052188814458	cfdna
+Lung	No	Lung	Female	Stomach, esophagus	0.005077527844507535	cfdna
+Lung	No	Lung	Male	Thyroid gland	9.347250350521893e-6	cfdna
+Lung	No	Lung	Female	Thyroid gland	9.099512266142535e-6	cfdna
+Lung	No	Lung	Male	Uterus	0	cfdna
+Lung	No	Lung	Female	Uterus	5.095726869039821e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Anus	4.129645851583031e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Anus	3.9545585274662067e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Bladder, urothelial	3.0033788011512956e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Bladder, urothelial	2.8760425654299687e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Bone and soft tissue	3.191089976223251e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Bone and soft tissue	3.0557952257693414e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Breast	0.003003378801151295	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Breast	0.002876042565429968	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Cervix	0	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Cervix	1.4380212827149843e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Colon, rectum	0.0033412589162808153	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Colon, rectum	0.0031995973540408394	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Head and neck	0.010224002002252534	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Head and neck	0.010138050043140638	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Kidney	3.3788011512952076e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Kidney	3.235547886108715e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Liver, bile duct	9.385558753597797e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Liver, bile duct	8.987633016968651e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Lung	0.004523839319234138	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Lung	0.00433203911417889	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Lymphoid lineage	0.9695595044424977	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Lymphoid lineage	0.9694600230083404	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Melanocytic lineage	1.3139782255036918e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Melanocytic lineage	1.2582686223756113e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Myeloid lineage	1.8771117507195598e-5	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Myeloid lineage	1.7975266033937304e-5	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Neuroendocrine cells	0.0012952071079964961	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Neuroendocrine cells	0.001240293356341674	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Ovary	0	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Ovary	7.19010641357492e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Pancreas, gallbladder	0.0021399073958202975	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Pancreas, gallbladder	0.002049180327868852	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Plasma cell neoplasm	6.569891127518458e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Plasma cell neoplasm	6.291343111878056e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Prostate	8.634714053309973e-4	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Prostate	0	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Stomach, esophagus	0.0019146539857339507	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Stomach, esophagus	0.0018334771354616048	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Thyroid gland	1.8771117507195598e-5	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Thyroid gland	1.7975266033937304e-5	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Male	Uterus	0	cfdna
+Lymphoma	NotExpected	Lymphoid lineage	Female	Uterus	0.001006614897900489	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Anus	0.00559796437659033	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Anus	0.005360623781676414	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Bladder, urothelial	0.0040712468193384215	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Bladder, urothelial	0.003898635477582846	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Bone and soft tissue	0.0043256997455470726	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Bone and soft tissue	0.004142300194931774	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Breast	0.04071246819338421	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Breast	0.03898635477582846	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Cervix	0	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Cervix	0.001949317738791423	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Colon, rectum	0.04529262086513993	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Colon, rectum	0.04337231968810915	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Head and neck	0.027480916030534347	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Head and neck	0.026315789473684206	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Kidney	0.0045801526717557245	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Kidney	0.004385964912280702	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Liver, bile duct	0.012722646310432564	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Liver, bile duct	0.012183235867446393	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Lung	0.061323155216284966	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Lung	0.05872319688109161	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Lymphoid lineage	0.03180661577608142	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Lymphoid lineage	0.03045808966861598	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Melanocytic lineage	0.668447837150127	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Melanocytic lineage	0.6683723196881091	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Myeloid lineage	2.5445292620865134e-4	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Myeloid lineage	2.4366471734892786e-4	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Neuroendocrine cells	0.017557251908396944	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Neuroendocrine cells	0.016812865497076022	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Ovary	0	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Ovary	0.009746588693957114	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Pancreas, gallbladder	0.029007633587786248	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Pancreas, gallbladder	0.027777777777777773	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Plasma cell neoplasm	0.008905852417302797	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Plasma cell neoplasm	0.008528265107212475	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Prostate	0.01170483460559796	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Prostate	0	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Stomach, esophagus	0.025954198473282435	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Stomach, esophagus	0.024853801169590642	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Thyroid gland	2.5445292620865134e-4	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Thyroid gland	2.4366471734892786e-4	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Male	Uterus	0	cfdna
+Melanoma	NotExpected	Melanocytic lineage	Female	Uterus	0.01364522417153996	cfdna
+Ovary	NotExpected	Ovary	Male	Anus	0.016793893129770993	cfdna
+Ovary	NotExpected	Ovary	Female	Anus	8.464142813173286e-4	cfdna
+Ovary	NotExpected	Ovary	Male	Bladder, urothelial	0.012213740458015269	cfdna
+Ovary	NotExpected	Ovary	Female	Bladder, urothelial	6.155740227762389e-4	cfdna
+Ovary	NotExpected	Ovary	Male	Bone and soft tissue	0.01297709923664122	cfdna
+Ovary	NotExpected	Ovary	Female	Bone and soft tissue	0.01819790704832256	cfdna
+Ovary	NotExpected	Ovary	Male	Breast	0.12213740458015267	cfdna
+Ovary	NotExpected	Ovary	Female	Breast	0.006155740227762389	cfdna
+Ovary	NotExpected	Ovary	Male	Cervix	0	cfdna
+Ovary	NotExpected	Ovary	Female	Cervix	3.0778701138811946e-4	cfdna
+Ovary	NotExpected	Ovary	Male	Colon, rectum	0.1358778625954198	cfdna
+Ovary	NotExpected	Ovary	Female	Colon, rectum	0.024392120652508464	cfdna
+Ovary	NotExpected	Ovary	Male	Head and neck	0.08244274809160305	cfdna
+Ovary	NotExpected	Ovary	Female	Head and neck	0.004155124653739612	cfdna
+Ovary	NotExpected	Ovary	Male	Kidney	0.013740458015267175	cfdna
+Ovary	NotExpected	Ovary	Female	Kidney	6.925207756232689e-4	cfdna
+Ovary	NotExpected	Ovary	Male	Liver, bile duct	0.038167938931297704	cfdna
+Ovary	NotExpected	Ovary	Female	Liver, bile duct	0.0019236688211757464	cfdna
+Ovary	NotExpected	Ovary	Male	Lung	0.18396946564885494	cfdna
+Ovary	NotExpected	Ovary	Female	Lung	0.009272083718067098	cfdna
+Ovary	NotExpected	Ovary	Male	Lymphoid lineage	0.09541984732824427	cfdna
+Ovary	NotExpected	Ovary	Female	Lymphoid lineage	0.004809172052939366	cfdna
+Ovary	NotExpected	Ovary	Male	Melanocytic lineage	0.00534351145038168	cfdna
+Ovary	NotExpected	Ovary	Female	Melanocytic lineage	2.693136349646045e-4	cfdna
+Ovary	NotExpected	Ovary	Male	Myeloid lineage	7.633587786259543e-4	cfdna
+Ovary	NotExpected	Ovary	Female	Myeloid lineage	3.847337642351493e-5	cfdna
+Ovary	NotExpected	Ovary	Male	Neuroendocrine cells	0.05267175572519084	cfdna
+Ovary	NotExpected	Ovary	Female	Neuroendocrine cells	0.0026546629732225307	cfdna
+Ovary	NotExpected	Ovary	Male	Ovary	0	cfdna
+Ovary	NotExpected	Ovary	Female	Ovary	0.6682056017236073	cfdna
+Ovary	NotExpected	Ovary	Male	Pancreas, gallbladder	0.08702290076335877	cfdna
+Ovary	NotExpected	Ovary	Female	Pancreas, gallbladder	0.021929824561403508	cfdna
+Ovary	NotExpected	Ovary	Male	Plasma cell neoplasm	0.026717557251908396	cfdna
+Ovary	NotExpected	Ovary	Female	Plasma cell neoplasm	0.0013465681748230228	cfdna
+Ovary	NotExpected	Ovary	Male	Prostate	0.03511450381679389	cfdna
+Ovary	NotExpected	Ovary	Female	Prostate	0	cfdna
+Ovary	NotExpected	Ovary	Male	Stomach, esophagus	0.07786259541984733	cfdna
+Ovary	NotExpected	Ovary	Female	Stomach, esophagus	0.003924284395198523	cfdna
+Ovary	NotExpected	Ovary	Male	Thyroid gland	7.633587786259543e-4	cfdna
+Ovary	NotExpected	Ovary	Female	Thyroid gland	3.847337642351493e-5	cfdna
+Ovary	NotExpected	Ovary	Male	Uterus	0	cfdna
+Ovary	NotExpected	Ovary	Female	Uterus	0.23022468451831332	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Anus	3.9670613692372424e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Anus	3.798867246857301e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Bladder, urothelial	2.885135541263449e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Bladder, urothelial	2.762812543168946e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Bone and soft tissue	3.0654565125924144e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Bone and soft tissue	2.935488327117005e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Breast	0.002885135541263449	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Breast	0.002762812543168946	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Cervix	0	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Cervix	1.381406271584473e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Colon, rectum	0.018957744785718576	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Colon, rectum	0.018821660450338444	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Head and neck	0.0019474664903528281	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Head and neck	0.0018648984666390384	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Kidney	0.008198593496423634	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Kidney	0.008184832159138001	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Liver, bile duct	0.0481456993448338	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Liver, bile duct	0.048107473407929265	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Lung	0.02009376690509106	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Lung	0.019909517889211213	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Lymphoid lineage	0.0022540121416120694	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Lymphoid lineage	0.002158447299350739	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Melanocytic lineage	1.262246799302759e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Melanocytic lineage	1.2087304876364139e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Myeloid lineage	1.8032097132896557e-5	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Myeloid lineage	1.7267578394805913e-5	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Neuroendocrine cells	0.016992246198232853	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Neuroendocrine cells	0.0169394944053046	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Ovary	0	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Ovary	6.907031357922365e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Pancreas, gallbladder	0.8209532968684257	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Pancreas, gallbladder	0.8208661417322833	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Plasma cell neoplasm	6.311233996513794e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Plasma cell neoplasm	6.04365243818207e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Prostate	8.294764681132414e-4	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Prostate	0	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Stomach, esophagus	0.056957384143775915	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Stomach, esophagus	0.05687940323249067	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Thyroid gland	1.8032097132896557e-5	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Thyroid gland	1.7267578394805913e-5	cfdna
+Pancreas	No	Pancreas, gallbladder	Male	Uterus	0	cfdna
+Pancreas	No	Pancreas, gallbladder	Female	Uterus	9.669843901091311e-4	cfdna
+Prostate	NotExpected	Prostate	Male	Anus	0.0010076335877862597	cfdna
+Prostate	NotExpected	Prostate	Female	Anus	0.016081871345029242	cfdna
+Prostate	NotExpected	Prostate	Male	Bladder, urothelial	7.328244274809163e-4	cfdna
+Prostate	NotExpected	Prostate	Female	Bladder, urothelial	0.011695906432748539	cfdna
+Prostate	NotExpected	Prostate	Male	Bone and soft tissue	7.786259541984734e-4	cfdna
+Prostate	NotExpected	Prostate	Female	Bone and soft tissue	0.012426900584795323	cfdna
+Prostate	NotExpected	Prostate	Male	Breast	0.007328244274809163	cfdna
+Prostate	NotExpected	Prostate	Female	Breast	0.11695906432748539	cfdna
+Prostate	NotExpected	Prostate	Male	Cervix	0	cfdna
+Prostate	NotExpected	Prostate	Female	Cervix	0.0058479532163742695	cfdna
+Prostate	NotExpected	Prostate	Male	Colon, rectum	0.04815267175572519	cfdna
+Prostate	NotExpected	Prostate	Female	Colon, rectum	0.1301169590643275	cfdna
+Prostate	NotExpected	Prostate	Male	Head and neck	0.024946564885496188	cfdna
+Prostate	NotExpected	Prostate	Female	Head and neck	0.07894736842105264	cfdna
+Prostate	NotExpected	Prostate	Male	Kidney	8.244274809160308e-4	cfdna
+Prostate	NotExpected	Prostate	Female	Kidney	0.01315789473684211	cfdna
+Prostate	NotExpected	Prostate	Male	Liver, bile duct	0.0022900763358778627	cfdna
+Prostate	NotExpected	Prostate	Female	Liver, bile duct	0.036549707602339186	cfdna
+Prostate	NotExpected	Prostate	Male	Lung	0.031038167938931306	cfdna
+Prostate	NotExpected	Prostate	Female	Lung	0.17616959064327486	cfdna
+Prostate	NotExpected	Prostate	Male	Lymphoid lineage	0.005725190839694658	cfdna
+Prostate	NotExpected	Prostate	Female	Lymphoid lineage	0.09137426900584796	cfdna
+Prostate	NotExpected	Prostate	Male	Melanocytic lineage	3.206106870229009e-4	cfdna
+Prostate	NotExpected	Prostate	Female	Melanocytic lineage	0.005116959064327486	cfdna
+Prostate	NotExpected	Prostate	Male	Myeloid lineage	4.580152671755727e-5	cfdna
+Prostate	NotExpected	Prostate	Female	Myeloid lineage	7.309941520467837e-4	cfdna
+Prostate	NotExpected	Prostate	Male	Neuroendocrine cells	0.0031603053435114515	cfdna
+Prostate	NotExpected	Prostate	Female	Neuroendocrine cells	0.05043859649122808	cfdna
+Prostate	NotExpected	Prostate	Male	Ovary	0	cfdna
+Prostate	NotExpected	Prostate	Female	Ovary	0.029239766081871347	cfdna
+Prostate	NotExpected	Prostate	Male	Pancreas, gallbladder	0.0052213740458015275	cfdna
+Prostate	NotExpected	Prostate	Female	Pancreas, gallbladder	0.08333333333333333	cfdna
+Prostate	NotExpected	Prostate	Male	Plasma cell neoplasm	0.0016030534351145042	cfdna
+Prostate	NotExpected	Prostate	Female	Plasma cell neoplasm	0.025584795321637432	cfdna
+Prostate	NotExpected	Prostate	Male	Prostate	0.8621068702290077	cfdna
+Prostate	NotExpected	Prostate	Female	Prostate	0	cfdna
+Prostate	NotExpected	Prostate	Male	Stomach, esophagus	0.004671755725190841	cfdna
+Prostate	NotExpected	Prostate	Female	Stomach, esophagus	0.07456140350877194	cfdna
+Prostate	NotExpected	Prostate	Male	Thyroid gland	4.580152671755727e-5	cfdna
+Prostate	NotExpected	Prostate	Female	Thyroid gland	7.309941520467837e-4	cfdna
+Prostate	NotExpected	Prostate	Male	Uterus	0	cfdna
+Prostate	NotExpected	Prostate	Female	Uterus	0.04093567251461989	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Anus	0.0025190839694656493	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Anus	0.002192982456140351	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Bladder, urothelial	0.0018320610687022904	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Bladder, urothelial	0.0015948963317384372	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Bone and soft tissue	0.6019465648854962	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Bone and soft tissue	0.5471491228070176	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Breast	0.018320610687022905	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Breast	0.015948963317384372	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Cervix	0	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Cervix	7.974481658692186e-4	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Colon, rectum	0.020381679389312977	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Colon, rectum	0.017743221690590113	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Head and neck	0.01236641221374046	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Head and neck	0.01076555023923445	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Kidney	0.05206106870229008	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Kidney	0.0472488038277512	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Liver, bile duct	0.10572519083969464	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Liver, bile duct	0.09589314194577353	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Lung	0.027595419847328245	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Lung	0.02402312599681021	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Lymphoid lineage	0.11431297709923664	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Lymphoid lineage	0.10336921850079744	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Melanocytic lineage	8.015267175572521e-4	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Melanocytic lineage	6.977671451355663e-4	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Myeloid lineage	1.1450381679389315e-4	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Myeloid lineage	9.968102073365233e-5	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Neuroendocrine cells	0.007900763358778626	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Neuroendocrine cells	0.006877990430622011	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Ovary	0	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Ovary	0.003987240829346093	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Pancreas, gallbladder	0.013053435114503817	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Pancreas, gallbladder	0.011363636363636364	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Plasma cell neoplasm	0.00400763358778626	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Plasma cell neoplasm	0.0034888357256778317	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Prostate	0.005267175572519084	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Prostate	0	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Stomach, esophagus	0.011679389312977101	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Stomach, esophagus	0.010167464114832537	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Thyroid gland	1.1450381679389315e-4	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Thyroid gland	9.968102073365233e-5	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Male	Uterus	0	cfdna
+Sarcoma	NotExpected	Bone and soft tissue	Female	Uterus	0.09649122807017543	cfdna
+Stomach	No	Stomach, esophagus	Male	Anus	4.6649703138252756e-4	cfdna
+Stomach	No	Stomach, esophagus	Female	Anus	4.467186484730345e-4	cfdna
+Stomach	No	Stomach, esophagus	Male	Bladder, urothelial	3.392705682782019e-4	cfdna
+Stomach	No	Stomach, esophagus	Female	Bladder, urothelial	3.2488628979857054e-4	cfdna
+Stomach	No	Stomach, esophagus	Male	Bone and soft tissue	3.6047497879558945e-4	cfdna
+Stomach	No	Stomach, esophagus	Female	Bone and soft tissue	3.451916829109812e-4	cfdna
+Stomach	No	Stomach, esophagus	Male	Breast	0.0033927056827820186	cfdna
+Stomach	No	Stomach, esophagus	Female	Breast	0.0032488628979857053	cfdna
+Stomach	No	Stomach, esophagus	Male	Cervix	0	cfdna
+Stomach	No	Stomach, esophagus	Female	Cervix	1.6244314489928527e-4	cfdna
+Stomach	No	Stomach, esophagus	Male	Colon, rectum	0.03155216284987277	cfdna
+Stomach	No	Stomach, esophagus	Female	Colon, rectum	0.031392137751786876	cfdna
+Stomach	No	Stomach, esophagus	Male	Head and neck	0.06710489115069267	cfdna
+Stomach	No	Stomach, esophagus	Female	Head and neck	0.06700779727095517	cfdna
+Stomach	No	Stomach, esophagus	Male	Kidney	3.816793893129771e-4	cfdna
+Stomach	No	Stomach, esophagus	Female	Kidney	3.654970760233919e-4	cfdna
+Stomach	No	Stomach, esophagus	Male	Liver, bile duct	0.0010602205258693808	cfdna
+Stomach	No	Stomach, esophagus	Female	Liver, bile duct	0.001015269655620533	cfdna
+Stomach	No	Stomach, esophagus	Male	Lung	0.03288804071246819	cfdna
+Stomach	No	Stomach, esophagus	Female	Lung	0.03267137751786874	cfdna
+Stomach	No	Stomach, esophagus	Male	Lymphoid lineage	0.002650551314673452	cfdna
+Stomach	No	Stomach, esophagus	Female	Lymphoid lineage	0.0025381741390513323	cfdna
+Stomach	No	Stomach, esophagus	Male	Melanocytic lineage	1.4843087362171334e-4	cfdna
+Stomach	No	Stomach, esophagus	Female	Melanocytic lineage	1.421377517868746e-4	cfdna
+Stomach	No	Stomach, esophagus	Male	Myeloid lineage	2.120441051738762e-5	cfdna
+Stomach	No	Stomach, esophagus	Female	Myeloid lineage	2.030539311241066e-5	cfdna
+Stomach	No	Stomach, esophagus	Male	Neuroendocrine cells	0.0014631043256997456	cfdna
+Stomach	No	Stomach, esophagus	Female	Neuroendocrine cells	0.0014010721247563354	cfdna
+Stomach	No	Stomach, esophagus	Male	Ovary	0	cfdna
+Stomach	No	Stomach, esophagus	Female	Ovary	8.122157244964263e-4	cfdna
+Stomach	No	Stomach, esophagus	Male	Pancreas, gallbladder	0.0024173027989821878	cfdna
+Stomach	No	Stomach, esophagus	Female	Pancreas, gallbladder	0.0023148148148148147	cfdna
+Stomach	No	Stomach, esophagus	Male	Plasma cell neoplasm	7.421543681085666e-4	cfdna
+Stomach	No	Stomach, esophagus	Female	Plasma cell neoplasm	7.106887589343731e-4	cfdna
+Stomach	No	Stomach, esophagus	Male	Prostate	9.754028837998302e-4	cfdna
+Stomach	No	Stomach, esophagus	Female	Prostate	0	cfdna
+Stomach	No	Stomach, esophagus	Male	Stomach, esophagus	0.8540147017246253	cfdna
+Stomach	No	Stomach, esophagus	Female	Stomach, esophagus	0.8539230019493177	cfdna
+Stomach	No	Stomach, esophagus	Male	Thyroid gland	2.120441051738762e-5	cfdna
+Stomach	No	Stomach, esophagus	Female	Thyroid gland	2.030539311241066e-5	cfdna
+Stomach	No	Stomach, esophagus	Male	Uterus	0	cfdna
+Stomach	No	Stomach, esophagus	Female	Uterus	0.001137102014294997	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Anus	0.016793893129770993	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Anus	0.016081871345029242	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Bladder, urothelial	0.012213740458015269	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Bladder, urothelial	0.011695906432748539	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Bone and soft tissue	0.01297709923664122	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Bone and soft tissue	0.012426900584795323	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Breast	0.12213740458015267	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Breast	0.11695906432748539	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Cervix	0	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Cervix	0.0058479532163742695	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Colon, rectum	0.1358778625954198	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Colon, rectum	0.1301169590643275	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Head and neck	0.08244274809160305	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Head and neck	0.07894736842105264	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Kidney	0.013740458015267175	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Kidney	0.01315789473684211	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Liver, bile duct	0.038167938931297704	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Liver, bile duct	0.036549707602339186	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Lung	0.18396946564885494	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Lung	0.17616959064327486	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Lymphoid lineage	0.09541984732824427	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Lymphoid lineage	0.09137426900584796	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Melanocytic lineage	0.00534351145038168	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Melanocytic lineage	0.005116959064327486	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Myeloid lineage	7.633587786259543e-4	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Myeloid lineage	7.309941520467837e-4	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Neuroendocrine cells	0.05267175572519084	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Neuroendocrine cells	0.05043859649122808	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Ovary	0	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Ovary	0.029239766081871347	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Pancreas, gallbladder	0.08702290076335877	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Pancreas, gallbladder	0.08333333333333333	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Plasma cell neoplasm	0.026717557251908396	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Plasma cell neoplasm	0.025584795321637432	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Prostate	0.03511450381679389	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Prostate	0	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Stomach, esophagus	0.07786259541984733	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Stomach, esophagus	0.07456140350877194	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Thyroid gland	7.633587786259543e-4	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Thyroid gland	7.309941520467837e-4	cfdna
+Thyroid	NotExpected	Thyroid gland	Male	Uterus	0	cfdna
+Thyroid	NotExpected	Thyroid gland	Female	Uterus	0.04093567251461989	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Anus	0.002651667336279631	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Anus	0.002539242843951986	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Bladder, urothelial	0.738770590598634	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Bladder, urothelial	0.7386888273314867	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Bone and soft tissue	0.0020490156689433508	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Bone and soft tissue	0.001962142197599262	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Breast	0.01928485335476095	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Breast	0.01846722068328717	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Cervix	0	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Cervix	9.233610341643586e-4	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Colon, rectum	0.021454399357171555	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Colon, rectum	0.020544783010156976	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Head and neck	0.013017276014463642	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Head and neck	0.012465373961218839	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Kidney	0.002169546002410607	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Kidney	0.002077562326869807	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Liver, bile duct	0.006026516673362796	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Liver, bile duct	0.00577100646352724	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Lung	0.13431096826034553	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Lung	0.13307940904893817	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Lymphoid lineage	0.015066291683406993	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Lymphoid lineage	0.014427516158818102	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Melanocytic lineage	8.437123342707918e-4	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Melanocytic lineage	8.079409048938138e-4	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Myeloid lineage	1.2053033346725595e-4	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Myeloid lineage	1.1542012927054482e-4	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Neuroendocrine cells	0.008316593009240661	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Neuroendocrine cells	0.007963988919667592	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Ovary	0	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Ovary	0.004616805170821792	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Pancreas, gallbladder	0.013740458015267175	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Pancreas, gallbladder	0.013157894736842108	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Plasma cell neoplasm	0.004218561671353958	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Plasma cell neoplasm	0.004039704524469069	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Prostate	0.005544395339493772	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Prostate	0	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Stomach, esophagus	0.012294094013660106	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Stomach, esophagus	0.011772853185595572	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Thyroid gland	1.2053033346725595e-4	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Thyroid gland	1.1542012927054482e-4	cfdna
+Urothelial Tract	No	Bladder, urothelial	Male	Uterus	0	cfdna
+Urothelial Tract	No	Bladder, urothelial	Female	Uterus	0.00646352723915051	cfdna
+Uterus	No	Uterus	Male	Anus	0.016793893129770993	cfdna
+Uterus	No	Uterus	Female	Anus	0.0010265024262784623	cfdna
+Uterus	No	Uterus	Male	Bladder, urothelial	0.012213740458015269	cfdna
+Uterus	No	Uterus	Female	Bladder, urothelial	7.465472191116088e-4	cfdna
+Uterus	No	Uterus	Male	Bone and soft tissue	0.01297709923664122	cfdna
+Uterus	No	Uterus	Female	Bone and soft tissue	0.04334639790966778	cfdna
+Uterus	No	Uterus	Male	Breast	0.12213740458015267	cfdna
+Uterus	No	Uterus	Female	Breast	0.028742067935796936	cfdna
+Uterus	No	Uterus	Male	Cervix	0	cfdna
+Uterus	No	Uterus	Female	Cervix	3.732736095558044e-4	cfdna
+Uterus	No	Uterus	Male	Colon, rectum	0.1358778625954198	cfdna
+Uterus	No	Uterus	Female	Colon, rectum	0.008305337812616647	cfdna
+Uterus	No	Uterus	Male	Head and neck	0.08244274809160305	cfdna
+Uterus	No	Uterus	Female	Head and neck	0.005039193729003359	cfdna
+Uterus	No	Uterus	Male	Kidney	0.013740458015267175	cfdna
+Uterus	No	Uterus	Female	Kidney	8.398656215005601e-4	cfdna
+Uterus	No	Uterus	Male	Liver, bile duct	0.038167938931297704	cfdna
+Uterus	No	Uterus	Female	Liver, bile duct	0.0023329600597237774	cfdna
+Uterus	No	Uterus	Male	Lung	0.18396946564885494	cfdna
+Uterus	No	Uterus	Female	Lung	0.011244867487868607	cfdna
+Uterus	No	Uterus	Male	Lymphoid lineage	0.09541984732824427	cfdna
+Uterus	No	Uterus	Female	Lymphoid lineage	0.005832400149309443	cfdna
+Uterus	No	Uterus	Male	Melanocytic lineage	0.00534351145038168	cfdna
+Uterus	No	Uterus	Female	Melanocytic lineage	3.266144083613289e-4	cfdna
+Uterus	No	Uterus	Male	Myeloid lineage	7.633587786259543e-4	cfdna
+Uterus	No	Uterus	Female	Myeloid lineage	4.665920119447555e-5	cfdna
+Uterus	No	Uterus	Male	Neuroendocrine cells	0.05267175572519084	cfdna
+Uterus	No	Uterus	Female	Neuroendocrine cells	0.0032194848824188133	cfdna
+Uterus	No	Uterus	Male	Ovary	0	cfdna
+Uterus	No	Uterus	Female	Ovary	0.02314296379245987	cfdna
+Uterus	No	Uterus	Male	Pancreas, gallbladder	0.08702290076335877	cfdna
+Uterus	No	Uterus	Female	Pancreas, gallbladder	0.005319148936170212	cfdna
+Uterus	No	Uterus	Male	Plasma cell neoplasm	0.026717557251908396	cfdna
+Uterus	No	Uterus	Female	Plasma cell neoplasm	0.0016330720418066445	cfdna
+Uterus	No	Uterus	Male	Prostate	0.03511450381679389	cfdna
+Uterus	No	Uterus	Female	Prostate	0	cfdna
+Uterus	No	Uterus	Male	Stomach, esophagus	0.07786259541984733	cfdna
+Uterus	No	Uterus	Female	Stomach, esophagus	0.004759238521836506	cfdna
+Uterus	No	Uterus	Male	Thyroid gland	7.633587786259543e-4	cfdna
+Uterus	No	Uterus	Female	Thyroid gland	4.665920119447555e-5	cfdna
+Uterus	No	Uterus	Male	Uterus	0	cfdna
+Uterus	No	Uterus	Female	Uterus	0.8536767450541246	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Anus	4.129645851583031e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Anus	3.9545585274662067e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Bladder, urothelial	3.0033788011512956e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Bladder, urothelial	2.8760425654299687e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Bone and soft tissue	3.191089976223251e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Bone and soft tissue	3.0557952257693414e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Breast	0.003003378801151295	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Breast	0.002876042565429968	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Cervix	0	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Cervix	1.4380212827149843e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Colon, rectum	0.0033412589162808153	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Colon, rectum	0.0031995973540408394	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Head and neck	0.010224002002252534	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Head and neck	0.010138050043140638	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Kidney	3.3788011512952076e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Kidney	3.235547886108715e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Liver, bile duct	9.385558753597797e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Liver, bile duct	8.987633016968651e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Lung	0.004523839319234138	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Lung	0.00433203911417889	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Lymphoid lineage	0.9695595044424977	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Lymphoid lineage	0.9694600230083404	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Melanocytic lineage	1.3139782255036918e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Melanocytic lineage	1.2582686223756113e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Myeloid lineage	1.8771117507195598e-5	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Myeloid lineage	1.7975266033937304e-5	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Neuroendocrine cells	0.0012952071079964961	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Neuroendocrine cells	0.001240293356341674	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Ovary	0	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Ovary	7.19010641357492e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Pancreas, gallbladder	0.0021399073958202975	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Pancreas, gallbladder	0.002049180327868852	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Plasma cell neoplasm	6.569891127518458e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Plasma cell neoplasm	6.291343111878056e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Prostate	8.634714053309973e-4	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Prostate	0	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Stomach, esophagus	0.0019146539857339507	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Stomach, esophagus	0.0018334771354616048	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Thyroid gland	1.8771117507195598e-5	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Thyroid gland	1.7975266033937304e-5	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Uterus	0	cfdna
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Uterus	0.001006614897900489	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Anus	0.010076335877862597	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Anus	0.009649122807017544	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Bladder, urothelial	0.007328244274809162	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Bladder, urothelial	0.007017543859649123	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Bone and soft tissue	0.007786259541984733	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Bone and soft tissue	0.007456140350877193	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Breast	0.07328244274809162	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Breast	0.07017543859649122	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Cervix	0	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Cervix	0.0035087719298245615	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Colon, rectum	0.08152671755725191	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Colon, rectum	0.07807017543859647	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Head and neck	0.04946564885496184	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Head and neck	0.047368421052631574	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Kidney	0.008244274809160308	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Kidney	0.007894736842105263	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Liver, bile duct	0.022900763358778626	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Liver, bile duct	0.021929824561403508	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Lung	0.11038167938931298	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Lung	0.1057017543859649	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Lymphoid lineage	0.45725190839694657	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Lymphoid lineage	0.45482456140350863	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Melanocytic lineage	0.0032061068702290084	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Melanocytic lineage	0.0030701754385964912	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Myeloid lineage	4.580152671755726e-4	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Myeloid lineage	4.385964912280702e-4	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Neuroendocrine cells	0.031603053435114506	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Neuroendocrine cells	0.030263157894736843	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Ovary	0	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Ovary	0.017543859649122806	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Pancreas, gallbladder	0.052213740458015266	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Pancreas, gallbladder	0.04999999999999999	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Plasma cell neoplasm	0.01603053435114504	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Plasma cell neoplasm	0.015350877192982457	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Prostate	0.021068702290076336	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Prostate	0	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Stomach, esophagus	0.046717557251908404	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Stomach, esophagus	0.04473684210526316	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Thyroid gland	4.580152671755726e-4	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Thyroid gland	4.385964912280702e-4	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Uterus	0	cfdna
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Uterus	0.02456140350877193	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Anus	0.0013616670105219728	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Anus	0.0013039355144618305	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Bladder, urothelial	9.903032803796168e-4	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Bladder, urothelial	9.483167377904221e-4	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Bone and soft tissue	0.0010521972354033426	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Bone and soft tissue	0.0010075865339023236	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Breast	0.009903032803796166	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Breast	0.00948316737790422	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Cervix	0	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Cervix	4.7415836889521106e-4	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Colon, rectum	0.011017123994223232	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Colon, rectum	0.010550023707918445	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Head and neck	0.006684547142562412	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Head and neck	0.006401137980085349	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Kidney	0.0011140911904270686	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Kidney	0.001066856330014225	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Liver, bile duct	0.0030946977511863015	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Liver, bile duct	0.002963489805595069	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Lung	0.014916443160717973	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Lung	0.014284020862968233	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Lymphoid lineage	0.0077367443779657544	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Lymphoid lineage	0.007408724513987672	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Melanocytic lineage	4.3325768516608233e-4	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Melanocytic lineage	4.148885727833097e-4	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Myeloid lineage	6.189395502372605e-5	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Myeloid lineage	5.926979611190138e-5	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Neuroendocrine cells	0.004270682896637097	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Neuroendocrine cells	0.004089615931721195	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Ovary	0	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Ovary	0.002370791844476055	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Pancreas, gallbladder	0.007055910872704767	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Pancreas, gallbladder	0.006756756756756757	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Plasma cell neoplasm	0.9210852073447495	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Plasma cell neoplasm	0.9209933617828354	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Prostate	0.0028471219310913973	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Prostate	0	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Stomach, esophagus	0.0063131834124200556	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Stomach, esophagus	0.006045519203413941	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Thyroid gland	6.189395502372605e-5	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Thyroid gland	5.926979611190138e-5	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Uterus	0	cfdna
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Uterus	0.0033191085822664775	cfdna
+CUP	NotExpected	None assigned	Male	Anus	0.016793893129770993	cfdna
+CUP	NotExpected	None assigned	Female	Anus	0.01608187134502924	cfdna
+CUP	NotExpected	None assigned	Male	Bladder, urothelial	0.01221374045801527	cfdna
+CUP	NotExpected	None assigned	Female	Bladder, urothelial	0.011695906432748537	cfdna
+CUP	NotExpected	None assigned	Male	Bone and soft tissue	0.012977099236641223	cfdna
+CUP	NotExpected	None assigned	Female	Bone and soft tissue	0.012426900584795323	cfdna
+CUP	NotExpected	None assigned	Male	Breast	0.12213740458015268	cfdna
+CUP	NotExpected	None assigned	Female	Breast	0.11695906432748536	cfdna
+CUP	NotExpected	None assigned	Male	Cervix	0	cfdna
+CUP	NotExpected	None assigned	Female	Cervix	0.005847953216374269	cfdna
+CUP	NotExpected	None assigned	Male	Colon, rectum	0.13587786259541984	cfdna
+CUP	NotExpected	None assigned	Female	Colon, rectum	0.13011695906432746	cfdna
+CUP	NotExpected	None assigned	Male	Head and neck	0.08244274809160307	cfdna
+CUP	NotExpected	None assigned	Female	Head and neck	0.07894736842105263	cfdna
+CUP	NotExpected	None assigned	Male	Kidney	0.013740458015267177	cfdna
+CUP	NotExpected	None assigned	Female	Kidney	0.013157894736842106	cfdna
+CUP	NotExpected	None assigned	Male	Liver, bile duct	0.03816793893129771	cfdna
+CUP	NotExpected	None assigned	Female	Liver, bile duct	0.03654970760233918	cfdna
+CUP	NotExpected	None assigned	Male	Lung	0.18396946564885497	cfdna
+CUP	NotExpected	None assigned	Female	Lung	0.17616959064327484	cfdna
+CUP	NotExpected	None assigned	Male	Lymphoid lineage	0.09541984732824428	cfdna
+CUP	NotExpected	None assigned	Female	Lymphoid lineage	0.09137426900584796	cfdna
+CUP	NotExpected	None assigned	Male	Melanocytic lineage	0.00534351145038168	cfdna
+CUP	NotExpected	None assigned	Female	Melanocytic lineage	0.005116959064327486	cfdna
+CUP	NotExpected	None assigned	Male	Myeloid lineage	7.633587786259544e-4	cfdna
+CUP	NotExpected	None assigned	Female	Myeloid lineage	7.309941520467836e-4	cfdna
+CUP	NotExpected	None assigned	Male	Neuroendocrine cells	0.052671755725190846	cfdna
+CUP	NotExpected	None assigned	Female	Neuroendocrine cells	0.05043859649122807	cfdna
+CUP	NotExpected	None assigned	Male	Ovary	0	cfdna
+CUP	NotExpected	None assigned	Female	Ovary	0.02923976608187134	cfdna
+CUP	NotExpected	None assigned	Male	Pancreas, gallbladder	0.08702290076335878	cfdna
+CUP	NotExpected	None assigned	Female	Pancreas, gallbladder	0.08333333333333333	cfdna
+CUP	NotExpected	None assigned	Male	Plasma cell neoplasm	0.0267175572519084	cfdna
+CUP	NotExpected	None assigned	Female	Plasma cell neoplasm	0.025584795321637432	cfdna
+CUP	NotExpected	None assigned	Male	Prostate	0.035114503816793895	cfdna
+CUP	NotExpected	None assigned	Female	Prostate	0	cfdna
+CUP	NotExpected	None assigned	Male	Stomach, esophagus	0.07786259541984734	cfdna
+CUP	NotExpected	None assigned	Female	Stomach, esophagus	0.07456140350877193	cfdna
+CUP	NotExpected	None assigned	Male	Thyroid gland	7.633587786259544e-4	cfdna
+CUP	NotExpected	None assigned	Female	Thyroid gland	7.309941520467836e-4	cfdna
+CUP	NotExpected	None assigned	Male	Uterus	0	cfdna
+CUP	NotExpected	None assigned	Female	Uterus	0.04093567251461989	cfdna
+Brain	NotExpected	None assigned	Male	Anus	0.016793893129770993	cfdna
+Brain	NotExpected	None assigned	Female	Anus	0.01608187134502924	cfdna
+Brain	NotExpected	None assigned	Male	Bladder, urothelial	0.01221374045801527	cfdna
+Brain	NotExpected	None assigned	Female	Bladder, urothelial	0.011695906432748537	cfdna
+Brain	NotExpected	None assigned	Male	Bone and soft tissue	0.012977099236641223	cfdna
+Brain	NotExpected	None assigned	Female	Bone and soft tissue	0.012426900584795323	cfdna
+Brain	NotExpected	None assigned	Male	Breast	0.12213740458015268	cfdna
+Brain	NotExpected	None assigned	Female	Breast	0.11695906432748536	cfdna
+Brain	NotExpected	None assigned	Male	Cervix	0	cfdna
+Brain	NotExpected	None assigned	Female	Cervix	0.005847953216374269	cfdna
+Brain	NotExpected	None assigned	Male	Colon, rectum	0.13587786259541984	cfdna
+Brain	NotExpected	None assigned	Female	Colon, rectum	0.13011695906432746	cfdna
+Brain	NotExpected	None assigned	Male	Head and neck	0.08244274809160307	cfdna
+Brain	NotExpected	None assigned	Female	Head and neck	0.07894736842105263	cfdna
+Brain	NotExpected	None assigned	Male	Kidney	0.013740458015267177	cfdna
+Brain	NotExpected	None assigned	Female	Kidney	0.013157894736842106	cfdna
+Brain	NotExpected	None assigned	Male	Liver, bile duct	0.03816793893129771	cfdna
+Brain	NotExpected	None assigned	Female	Liver, bile duct	0.03654970760233918	cfdna
+Brain	NotExpected	None assigned	Male	Lung	0.18396946564885497	cfdna
+Brain	NotExpected	None assigned	Female	Lung	0.17616959064327484	cfdna
+Brain	NotExpected	None assigned	Male	Lymphoid lineage	0.09541984732824428	cfdna
+Brain	NotExpected	None assigned	Female	Lymphoid lineage	0.09137426900584796	cfdna
+Brain	NotExpected	None assigned	Male	Melanocytic lineage	0.00534351145038168	cfdna
+Brain	NotExpected	None assigned	Female	Melanocytic lineage	0.005116959064327486	cfdna
+Brain	NotExpected	None assigned	Male	Myeloid lineage	7.633587786259544e-4	cfdna
+Brain	NotExpected	None assigned	Female	Myeloid lineage	7.309941520467836e-4	cfdna
+Brain	NotExpected	None assigned	Male	Neuroendocrine cells	0.052671755725190846	cfdna
+Brain	NotExpected	None assigned	Female	Neuroendocrine cells	0.05043859649122807	cfdna
+Brain	NotExpected	None assigned	Male	Ovary	0	cfdna
+Brain	NotExpected	None assigned	Female	Ovary	0.02923976608187134	cfdna
+Brain	NotExpected	None assigned	Male	Pancreas, gallbladder	0.08702290076335878	cfdna
+Brain	NotExpected	None assigned	Female	Pancreas, gallbladder	0.08333333333333333	cfdna
+Brain	NotExpected	None assigned	Male	Plasma cell neoplasm	0.0267175572519084	cfdna
+Brain	NotExpected	None assigned	Female	Plasma cell neoplasm	0.025584795321637432	cfdna
+Brain	NotExpected	None assigned	Male	Prostate	0.035114503816793895	cfdna
+Brain	NotExpected	None assigned	Female	Prostate	0	cfdna
+Brain	NotExpected	None assigned	Male	Stomach, esophagus	0.07786259541984734	cfdna
+Brain	NotExpected	None assigned	Female	Stomach, esophagus	0.07456140350877193	cfdna
+Brain	NotExpected	None assigned	Male	Thyroid gland	7.633587786259544e-4	cfdna
+Brain	NotExpected	None assigned	Female	Thyroid gland	7.309941520467836e-4	cfdna
+Brain	NotExpected	None assigned	Male	Uterus	0	cfdna
+Brain	NotExpected	None assigned	Female	Uterus	0.04093567251461989	cfdna
+[OTHER]	NotExpected	None assigned	Male	Anus	0.016793893129770993	cfdna
+[OTHER]	NotExpected	None assigned	Female	Anus	0.01608187134502924	cfdna
+[OTHER]	NotExpected	None assigned	Male	Bladder, urothelial	0.01221374045801527	cfdna
+[OTHER]	NotExpected	None assigned	Female	Bladder, urothelial	0.011695906432748537	cfdna
+[OTHER]	NotExpected	None assigned	Male	Bone and soft tissue	0.012977099236641223	cfdna
+[OTHER]	NotExpected	None assigned	Female	Bone and soft tissue	0.012426900584795323	cfdna
+[OTHER]	NotExpected	None assigned	Male	Breast	0.12213740458015268	cfdna
+[OTHER]	NotExpected	None assigned	Female	Breast	0.11695906432748536	cfdna
+[OTHER]	NotExpected	None assigned	Male	Cervix	0	cfdna
+[OTHER]	NotExpected	None assigned	Female	Cervix	0.005847953216374269	cfdna
+[OTHER]	NotExpected	None assigned	Male	Colon, rectum	0.13587786259541984	cfdna
+[OTHER]	NotExpected	None assigned	Female	Colon, rectum	0.13011695906432746	cfdna
+[OTHER]	NotExpected	None assigned	Male	Head and neck	0.08244274809160307	cfdna
+[OTHER]	NotExpected	None assigned	Female	Head and neck	0.07894736842105263	cfdna
+[OTHER]	NotExpected	None assigned	Male	Kidney	0.013740458015267177	cfdna
+[OTHER]	NotExpected	None assigned	Female	Kidney	0.013157894736842106	cfdna
+[OTHER]	NotExpected	None assigned	Male	Liver, bile duct	0.03816793893129771	cfdna
+[OTHER]	NotExpected	None assigned	Female	Liver, bile duct	0.03654970760233918	cfdna
+[OTHER]	NotExpected	None assigned	Male	Lung	0.18396946564885497	cfdna
+[OTHER]	NotExpected	None assigned	Female	Lung	0.17616959064327484	cfdna
+[OTHER]	NotExpected	None assigned	Male	Lymphoid lineage	0.09541984732824428	cfdna
+[OTHER]	NotExpected	None assigned	Female	Lymphoid lineage	0.09137426900584796	cfdna
+[OTHER]	NotExpected	None assigned	Male	Melanocytic lineage	0.00534351145038168	cfdna
+[OTHER]	NotExpected	None assigned	Female	Melanocytic lineage	0.005116959064327486	cfdna
+[OTHER]	NotExpected	None assigned	Male	Myeloid lineage	7.633587786259544e-4	cfdna
+[OTHER]	NotExpected	None assigned	Female	Myeloid lineage	7.309941520467836e-4	cfdna
+[OTHER]	NotExpected	None assigned	Male	Neuroendocrine cells	0.052671755725190846	cfdna
+[OTHER]	NotExpected	None assigned	Female	Neuroendocrine cells	0.05043859649122807	cfdna
+[OTHER]	NotExpected	None assigned	Male	Ovary	0	cfdna
+[OTHER]	NotExpected	None assigned	Female	Ovary	0.02923976608187134	cfdna
+[OTHER]	NotExpected	None assigned	Male	Pancreas, gallbladder	0.08702290076335878	cfdna
+[OTHER]	NotExpected	None assigned	Female	Pancreas, gallbladder	0.08333333333333333	cfdna
+[OTHER]	NotExpected	None assigned	Male	Plasma cell neoplasm	0.0267175572519084	cfdna
+[OTHER]	NotExpected	None assigned	Female	Plasma cell neoplasm	0.025584795321637432	cfdna
+[OTHER]	NotExpected	None assigned	Male	Prostate	0.035114503816793895	cfdna
+[OTHER]	NotExpected	None assigned	Female	Prostate	0	cfdna
+[OTHER]	NotExpected	None assigned	Male	Stomach, esophagus	0.07786259541984734	cfdna
+[OTHER]	NotExpected	None assigned	Female	Stomach, esophagus	0.07456140350877193	cfdna
+[OTHER]	NotExpected	None assigned	Male	Thyroid gland	7.633587786259544e-4	cfdna
+[OTHER]	NotExpected	None assigned	Female	Thyroid gland	7.309941520467836e-4	cfdna
+[OTHER]	NotExpected	None assigned	Male	Uterus	0	cfdna
+[OTHER]	NotExpected	None assigned	Female	Uterus	0.04093567251461989	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Bladder	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Bladder	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Cervix	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Cervix	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Colon/Rectum	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Esophagus	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Esophagus	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Gallbladder	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Gallbladder	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Head and Neck	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Head and Neck	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Lung	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Lung	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Lung	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Lung	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Lung	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Lung	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Lung	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Lung	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Lung	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Lung	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Lung	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Lung	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Lung	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Lung	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Lung	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Lung	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Lung	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Lung	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Lung	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Lung	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Lung	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Lung	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Lung	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Lung	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Lung	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Lung	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Lung	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Lung	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Lung	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Lung	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Lung	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Lung	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Lung	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Lung	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Lung	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Lung	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Lung	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Lung	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Lung	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Lung	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Lung	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Lung	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Pancreas	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Pancreas	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Stomach	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Stomach	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Urothelial Tract	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Anus	6.901599916344243e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Anus	6.60898822398462e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Bladder, urothelial	5.019345393704904e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Bladder, urothelial	4.806536890170632e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Bone and soft tissue	5.33305448081146e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Bone and soft tissue	5.106945445806296e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Breast	0.005019345393704904	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Breast	0.004806536890170632	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Cervix	0	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Cervix	2.403268445085316e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Colon, rectum	0.0329812820244693	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Colon, rectum	0.03274453256428742	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Head and neck	0.030785318414723407	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Head and neck	0.030641672674837774	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Kidney	5.646763567918017e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Kidney	5.407354001441962e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Liver, bile duct	0.0015685454355327823	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Liver, bile duct	0.0015020427781783224	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Lung	0.0760535396841995	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Lung	0.07573299687575101	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Lymphoid lineage	0.003921363588831956	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Lymphoid lineage	0.0037551069454458057	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Melanocytic lineage	2.195963609745896e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Melanocytic lineage	2.1028598894496514e-4	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Myeloid lineage	3.137090871065565e-5	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Myeloid lineage	3.004085556356645e-5	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Neuroendocrine cells	0.8240824009202131	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Neuroendocrine cells	0.823990627253064	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Ovary	0	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Ovary	0.001201634222542658	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Pancreas, gallbladder	0.01727491373000104	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Pancreas, gallbladder	0.017123287671232872	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Plasma cell neoplasm	0.0010979818048729476	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Plasma cell neoplasm	0.0010514299447248257	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Prostate	0.0014430618006901596	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Prostate	0	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Stomach, esophagus	0.003199832688486876	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Stomach, esophagus	0.0030641672674837778	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Thyroid gland	3.137090871065565e-5	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Thyroid gland	3.004085556356645e-5	cfdna
+Uterus	NET	Neuroendocrine cells	Male	Uterus	0	cfdna
+Uterus	NET	Neuroendocrine cells	Female	Uterus	0.0016822879115597211	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Anus	0.013994910941475829	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Anus	0.012563961988304095	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Bladder, urothelial	0.010178117048346058	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Bladder, urothelial	0.009137426900584797	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Bone and soft tissue	0.010814249363867686	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Bone and soft tissue	0.009708516081871347	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Breast	0.10178117048346057	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Breast	0.09137426900584796	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Cervix	0	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Cervix	0.004568713450292398	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Colon, rectum	0.1465648854961832	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Colon, rectum	0.13290387426900585	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Head and neck	0.0687022900763359	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Head and neck	0.06167763157894737	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Kidney	0.011450381679389313	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Kidney	0.010279605263157897	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Liver, bile duct	0.031806615776081425	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Liver, bile duct	0.02855445906432749	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Lung	0.1866412213740458	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Lung	0.16888249269005848	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Lymphoid lineage	0.1128498727735369	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Lymphoid lineage	0.10263614766081873	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Melanocytic lineage	0.0044529262086514	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Melanocytic lineage	0.003997624269005849	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Myeloid lineage	6.361323155216287e-4	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Myeloid lineage	5.710891812865498e-4	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Neuroendocrine cells	0.07722646310432571	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Neuroendocrine cells	0.07065515350877194	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Ovary	0	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Ovary	0.02284356725146199	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Pancreas, gallbladder	0.07251908396946564	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Pancreas, gallbladder	0.06510416666666667	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Plasma cell neoplasm	0.055597964376590335	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Plasma cell neoplasm	0.051238121345029246	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Prostate	0.029262086513994912	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Prostate	0	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Stomach, esophagus	0.06488549618320612	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Stomach, esophagus	0.058251096491228074	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Thyroid gland	6.361323155216287e-4	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Thyroid gland	5.710891812865498e-4	cfdna
+Non-cancer	NotExpected	NoneExpected	Male	Uterus	0	cfdna
+Non-cancer	NotExpected	NoneExpected	Female	Uterus	0.09448099415204679	cfdna
+Anus	NotExpected	Anus	Male	Anus	1	uc
+Anus	NotExpected	Anus	Female	Anus	1	uc
+Bladder	No	Bladder, urothelial	Male	Bladder, urothelial	1	uc
+Bladder	No	Bladder, urothelial	Female	Bladder, urothelial	1	uc
+Breast	NotExpected	Breast	Male	Breast	1	uc
+Breast	NotExpected	Breast	Female	Breast	1	uc
+Cervix	No	Cervix	Male	Cervix	1	uc
+Cervix	No	Cervix	Female	Cervix	1	uc
+Colon/Rectum	No	Colon, rectum	Male	Colon, rectum	1	uc
+Colon/Rectum	No	Colon, rectum	Female	Colon, rectum	1	uc
+Esophagus	No	Stomach, esophagus	Male	Stomach, esophagus	1	uc
+Esophagus	No	Stomach, esophagus	Female	Stomach, esophagus	1	uc
+Gallbladder	No	Pancreas, gallbladder	Male	Pancreas, gallbladder	1	uc
+Gallbladder	No	Pancreas, gallbladder	Female	Pancreas, gallbladder	1	uc
+Head and Neck	No	Head and neck	Male	Head and neck	1	uc
+Head and Neck	No	Head and neck	Female	Head and neck	1	uc
+Kidney	NotExpected	Kidney	Male	Kidney	1	uc
+Kidney	NotExpected	Kidney	Female	Kidney	1	uc
+Liver/Bile-duct	NotExpected	Liver, bile duct	Male	Liver, bile duct	1	uc
+Liver/Bile-duct	NotExpected	Liver, bile duct	Female	Liver, bile duct	1	uc
+Lung	No	Lung	Male	Lung	1	uc
+Lung	No	Lung	Female	Lung	1	uc
+Lymphoma	NotExpected	Lymphoid lineage	Male	Lymphoid lineage	1	uc
+Lymphoma	NotExpected	Lymphoid lineage	Female	Lymphoid lineage	1	uc
+Melanoma	NotExpected	Melanocytic lineage	Male	Melanocytic lineage	1	uc
+Melanoma	NotExpected	Melanocytic lineage	Female	Melanocytic lineage	1	uc
+Ovary	NotExpected	Ovary	Male	Ovary	1	uc
+Ovary	NotExpected	Ovary	Female	Ovary	1	uc
+Pancreas	No	Pancreas, gallbladder	Male	Pancreas, gallbladder	1	uc
+Pancreas	No	Pancreas, gallbladder	Female	Pancreas, gallbladder	1	uc
+Prostate	NotExpected	Prostate	Male	Prostate	1	uc
+Prostate	NotExpected	Prostate	Female	Prostate	1	uc
+Sarcoma	NotExpected	Bone and soft tissue	Male	Bone and soft tissue	1	uc
+Sarcoma	NotExpected	Bone and soft tissue	Female	Bone and soft tissue	1	uc
+Stomach	No	Stomach, esophagus	Male	Stomach, esophagus	1	uc
+Stomach	No	Stomach, esophagus	Female	Stomach, esophagus	1	uc
+Thyroid	NotExpected	Thyroid gland	Male	Thyroid gland	1	uc
+Thyroid	NotExpected	Thyroid gland	Female	Thyroid gland	1	uc
+Urothelial Tract	No	Bladder, urothelial	Male	Bladder, urothelial	1	uc
+Urothelial Tract	No	Bladder, urothelial	Female	Bladder, urothelial	1	uc
+Uterus	No	Uterus	Male	Uterus	1	uc
+Uterus	No	Uterus	Female	Uterus	1	uc
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Male	Lymphoid lineage	1	uc
+Lymphoid Leukemia	NotExpected	Lymphoid lineage	Female	Lymphoid lineage	1	uc
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Male	Myeloid lineage	1	uc
+Myeloid Neoplasm	NotExpected	Myeloid lineage	Female	Myeloid lineage	1	uc
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Male	Plasma cell neoplasm	1	uc
+Plasma Cell Neoplasm	NotExpected	Plasma cell neoplasm	Female	Plasma cell neoplasm	1	uc
+CUP	NotExpected	None assigned	Male	None assigned	1	uc
+CUP	NotExpected	None assigned	Female	None assigned	1	uc
+Brain	NotExpected	None assigned	Male	None assigned	1	uc
+Brain	NotExpected	None assigned	Female	None assigned	1	uc
+[OTHER]	NotExpected	None assigned	Male	None assigned	1	uc
+[OTHER]	NotExpected	None assigned	Female	None assigned	1	uc
+Bladder	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Bladder	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc
+Cervix	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Cervix	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc
+Colon/Rectum	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Colon/Rectum	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc
+Esophagus	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Esophagus	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc
+Gallbladder	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Gallbladder	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc
+Head and Neck	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Head and Neck	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc
+Lung	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Lung	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc
+Pancreas	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Pancreas	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc
+Stomach	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Stomach	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc
+Urothelial Tract	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Urothelial Tract	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc
+Uterus	NET	Neuroendocrine cells	Male	Neuroendocrine cells	1	uc
+Uterus	NET	Neuroendocrine cells	Female	Neuroendocrine cells	1	uc

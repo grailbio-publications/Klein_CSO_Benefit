@@ -1,0 +1,110 @@
+Sex	Lower	Exposure	predicted_CSO	ppv_cso_driven_fraction	ppv_post_cso_driven_fraction	ls_cso_driven_fraction	ls_post_cso_driven_fraction
+Female	55	Any	Anus	0.009999999999999993	0	0	0
+Female	55	Any	Bladder, urothelial	0.02200000000000003	0.6080000000000002	0	0.02200000000000001
+Female	55	Any	Bone and soft tissue	0	0.022	0	0
+Female	55	Any	Breast	0	0.77	0	0.009999999999999993
+Female	55	Any	Cervix	0.0019999999999999983	0.592	0	0.10200000000000001
+Female	55	Any	Colon, rectum	0	0.612	0	0
+Female	55	Any	Head and neck	0	0.038	0	0
+Female	55	Any	Kidney	0.04399999999999998	0.16399999999999998	0	0.0019999999999999983
+Female	55	Any	Liver, bile duct	0	0.21399999999999997	0	0
+Female	55	Any	Lung	0	0.5820000000000001	0	0.0019999999999999983
+Female	55	Any	Lymphoid lineage	0	0.6900000000000001	0	0.003999999999999997
+Female	55	Any	Neuroendocrine cells	0	0.5020000000000001	0	0
+Female	55	Any	Ovary	0	0.6099999999999999	0	0.06800000000000009
+Female	55	Any	Pancreas, gallbladder	0	0.3960000000000001	0	0
+Female	55	Any	Stomach, esophagus	0.09800000000000006	0.572	0	0.0019999999999999983
+Female	55	Any	Uterus	0	0.005999999999999996	0	0
+Female	65	Any	Anus	0.003999999999999997	0	0	0
+Female	65	Any	Bladder, urothelial	0	0.21399999999999986	0	0.0019999999999999983
+Female	65	Any	Bone and soft tissue	0	0	0	0
+Female	65	Any	Breast	0	0.3	0	0
+Female	65	Any	Cervix	0.0019999999999999983	0.2459999999999999	0	0.03199999999999998
+Female	65	Any	Colon, rectum	0	0.11999999999999997	0	0
+Female	65	Any	Head and neck	0	0.003999999999999997	0	0
+Female	65	Any	Kidney	0.003999999999999997	0.02200000000000001	0	0
+Female	65	Any	Liver, bile duct	0	0.005999999999999996	0	0
+Female	65	Any	Lung	0	0.11600000000000005	0	0
+Female	65	Any	Lymphoid lineage	0	0.222	0	0.0019999999999999983
+Female	65	Any	Neuroendocrine cells	0	0.030000000000000027	0	0
+Female	65	Any	Ovary	0	0.274	0	0.0019999999999999983
+Female	65	Any	Pancreas, gallbladder	0	0.039999999999999966	0	0
+Female	65	Any	Stomach, esophagus	0.0019999999999999983	0.08799999999999995	0	0
+Female	65	Any	Uterus	0	0	0	0
+Female	65	Current	Anus	0.007999999999999993	0	0	0
+Female	65	Current	Bladder, urothelial	0	0.06999999999999994	0	0
+Female	65	Current	Bone and soft tissue	0	0	0	0
+Female	65	Current	Breast	0	0.03400000000000002	0	0
+Female	65	Current	Cervix	0	0.12600000000000006	0	0.003999999999999997
+Female	65	Current	Colon, rectum	0	0.005999999999999996	0	0
+Female	65	Current	Head and neck	0	0	0	0
+Female	65	Current	Kidney	0	0.0019999999999999983	0	0
+Female	65	Current	Liver, bile duct	0	0.0019999999999999983	0	0
+Female	65	Current	Lung	0	0.0019999999999999983	0	0
+Female	65	Current	Lymphoid lineage	0	0.025999999999999985	0	0
+Female	65	Current	Neuroendocrine cells	0	0	0	0
+Female	65	Current	Ovary	0	0.11400000000000003	0	0
+Female	65	Current	Pancreas, gallbladder	0	0	0	0
+Female	65	Current	Stomach, esophagus	0	0.005999999999999996	0	0
+Female	65	Current	Uterus	0	0	0	0
+Female	65	Former	Anus	0.005999999999999996	0	0	0
+Female	65	Former	Bladder, urothelial	0	0.19199999999999987	0	0
+Female	65	Former	Bone and soft tissue	0	0	0	0
+Female	65	Former	Breast	0	0.25200000000000006	0	0
+Female	65	Former	Cervix	0	0.22399999999999992	0	0.03199999999999998
+Female	65	Former	Colon, rectum	0	0.09800000000000002	0	0
+Female	65	Former	Head and neck	0	0.0019999999999999983	0	0
+Female	65	Former	Kidney	0	0.019999999999999983	0	0
+Female	65	Former	Liver, bile duct	0	0.003999999999999997	0	0
+Female	65	Former	Lung	0	0.08600000000000001	0	0
+Female	65	Former	Lymphoid lineage	0	0.16400000000000003	0	0
+Female	65	Former	Neuroendocrine cells	0	0.017999999999999995	0	0
+Female	65	Former	Ovary	0	0.24799999999999991	0	0.0019999999999999983
+Female	65	Former	Pancreas, gallbladder	0	0.019999999999999987	0	0
+Female	65	Former	Stomach, esophagus	0.0019999999999999983	0.0740000000000001	0	0
+Female	65	Former	Uterus	0	0	0	0
+Female	65	Never	Anus	0.003999999999999997	0	0	0
+Female	65	Never	Bladder, urothelial	0	0.3240000000000001	0	0.007999999999999993
+Female	65	Never	Bone and soft tissue	0	0.003999999999999997	0	0
+Female	65	Never	Breast	0	0.4959999999999997	0	0
+Female	65	Never	Cervix	0.007999999999999993	0.34000000000000014	0	0.04799999999999997
+Female	65	Never	Colon, rectum	0	0.2779999999999999	0	0
+Female	65	Never	Head and neck	0.0019999999999999983	0.023999999999999987	0	0
+Female	65	Never	Kidney	0.003999999999999997	0.06999999999999999	0	0
+Female	65	Never	Liver, bile duct	0	0.026000000000000044	0	0
+Female	65	Never	Lung	0.013999999999999992	0.31199999999999994	0	0
+Female	65	Never	Lymphoid lineage	0	0.36400000000000005	0	0.0019999999999999983
+Female	65	Never	Neuroendocrine cells	0.003999999999999997	0.368	0	0
+Female	65	Never	Ovary	0	0.3560000000000001	0	0.011999999999999992
+Female	65	Never	Pancreas, gallbladder	0	0.17399999999999996	0	0
+Female	65	Never	Stomach, esophagus	0.007999999999999993	0.18600000000000005	0	0
+Female	65	Never	Uterus	0	0	0	0
+Female	75	Any	Anus	0.003999999999999997	0	0	0
+Female	75	Any	Bladder, urothelial	0	0.07400000000000008	0	0
+Female	75	Any	Bone and soft tissue	0	0	0	0
+Female	75	Any	Breast	0	0.06799999999999998	0	0
+Female	75	Any	Cervix	0.005999999999999996	0.12799999999999992	0	0.01399999999999999
+Female	75	Any	Colon, rectum	0	0.01999999999999999	0	0
+Female	75	Any	Head and neck	0	0	0	0
+Female	75	Any	Kidney	0	0.0019999999999999983	0	0
+Female	75	Any	Liver, bile duct	0	0.0019999999999999983	0	0
+Female	75	Any	Lung	0	0.011999999999999992	0	0
+Female	75	Any	Lymphoid lineage	0	0.03199999999999998	0	0
+Female	75	Any	Neuroendocrine cells	0	0	0	0
+Female	75	Any	Ovary	0	0.12599999999999992	0	0
+Female	75	Any	Pancreas, gallbladder	0	0.003999999999999997	0	0
+Female	75	Any	Stomach, esophagus	0.0019999999999999983	0.007999999999999993	0	0
+Female	75	Any	Uterus	0	0	0	0
+Male	65	Any	Anus	0.05199999999999996	0.2239999999999999	0	0
+Male	65	Any	Bladder, urothelial	0	0.06999999999999992	0	0
+Male	65	Any	Bone and soft tissue	0	0.060000000000000116	0	0
+Male	65	Any	Colon, rectum	0	0.03199999999999997	0	0
+Male	65	Any	Head and neck	0	0	0	0
+Male	65	Any	Kidney	0	0.003999999999999997	0	0
+Male	65	Any	Liver, bile duct	0	0.0019999999999999983	0	0
+Male	65	Any	Lung	0	0.005999999999999996	0	0
+Male	65	Any	Lymphoid lineage	0	0.057999999999999996	0	0
+Male	65	Any	Neuroendocrine cells	0	0.0019999999999999983	0	0
+Male	65	Any	Pancreas, gallbladder	0	0.007999999999999993	0	0
+Male	65	Any	Prostate	0	0.038000000000000006	0	0
+Male	65	Any	Stomach, esophagus	0	0.03000000000000002	0	0
